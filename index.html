@@ -1,0 +1,288 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#1769d2">
+  <meta name="description" content="阿祖英语学习：矿业、设备、维修、安全与工作沟通英语离线学习。">
+  <title>阿祖英语学习</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="app-shell">
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">OFFLINE VOCABULARY</p>
+        <h1>阿祖英语学习</h1>
+      </div>
+      <div class="top-actions">
+        <div class="top-progress" aria-label="学习进度">
+          <strong id="learnedCount">0</strong>
+          <span>/ <b id="totalCount">0</b> 已学</span>
+        </div>
+        <button class="settings-button" id="settingsButton" type="button" aria-label="打开设置">⚙</button>
+      </div>
+    </header>
+
+    <main>
+      <section class="view active" id="view-learn" aria-labelledby="learnTitle">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">LEARN</p>
+            <h2 id="learnTitle">学习单词</h2>
+          </div>
+          <label class="select-wrap">
+            <span class="sr-only">选择分类</span>
+            <select id="learnCategory"></select>
+          </label>
+        </div>
+
+        <div class="study-progress">
+          <div class="progress-label">
+            <span id="learnPosition">1 / 1</span>
+            <span id="learnCategoryLabel">全部分类</span>
+          </div>
+          <div class="progress-track"><i id="learnProgress"></i></div>
+        </div>
+
+        <article class="flashcard" id="learnCard">
+          <div class="card-topline">
+            <span class="category-badge" id="learnBadge">分类</span>
+            <button class="icon-button" id="favoriteButton" aria-label="收藏当前单词" title="收藏">☆</button>
+          </div>
+          <div class="word-block">
+            <p class="word-kicker">ENGLISH</p>
+            <h3 id="learnTerm">—</h3>
+            <p class="phonetic" id="learnPhonetic"></p>
+            <button class="speak-button" id="speakLearn" type="button">🔊 听发音</button>
+          </div>
+          <button class="reveal-button" id="revealLearn" type="button">显示中文和例句</button>
+          <div class="answer-panel" id="learnAnswer" hidden>
+            <div>
+              <span>中文</span>
+              <strong id="learnMeaning"></strong>
+            </div>
+            <div>
+              <span>常用搭配</span>
+              <p id="learnUsage"></p>
+            </div>
+            <div class="example-box">
+              <span>例句</span>
+              <p id="learnExample"></p>
+              <p class="example-translation" id="learnExampleZh"></p>
+            </div>
+          </div>
+        </article>
+
+        <div class="study-actions">
+          <button class="secondary-button" id="previousWord" type="button">← 上一个</button>
+          <button class="primary-button" id="markLearned" type="button">标记已学</button>
+          <button class="secondary-button" id="nextWord" type="button">下一个 →</button>
+        </div>
+      </section>
+
+      <section class="view" id="view-examples" aria-labelledby="examplesTitle">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">EXAMPLES</p>
+            <h2 id="examplesTitle">例句与用法</h2>
+          </div>
+        </div>
+        <div class="filter-row">
+          <label class="search-field">
+            <span>⌕</span>
+            <input id="exampleSearch" type="search" placeholder="搜索单词、中文或例句">
+          </label>
+          <select id="exampleCategory" aria-label="按分类筛选"></select>
+        </div>
+        <p class="result-count" id="exampleResultCount"></p>
+        <div class="card-list" id="exampleList"></div>
+      </section>
+
+      <section class="view" id="view-review" aria-labelledby="reviewTitle">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">REVIEW</p>
+            <h2 id="reviewTitle">复习</h2>
+          </div>
+          <span class="review-count"><b id="dueCount">0</b> 个待复习</span>
+        </div>
+
+        <div class="empty-state" id="reviewEmpty">
+          <div class="empty-icon">✓</div>
+          <h3>今天的复习完成了</h3>
+          <p>先去学习并标记单词，系统会自动安排复习。</p>
+          <button class="secondary-button" id="reviewAll" type="button">复习全部已学单词</button>
+        </div>
+
+        <article class="flashcard review-card" id="reviewCard" hidden>
+          <div class="card-topline">
+            <span class="category-badge" id="reviewBadge">分类</span>
+            <span class="muted" id="reviewPosition">1 / 1</span>
+          </div>
+          <div class="word-block">
+            <p class="word-kicker">还记得吗？</p>
+            <h3 id="reviewTerm">—</h3>
+            <p class="phonetic" id="reviewPhonetic"></p>
+            <button class="speak-button" id="speakReview" type="button">🔊 听发音</button>
+          </div>
+          <button class="reveal-button" id="revealReview" type="button">查看答案</button>
+          <div class="answer-panel" id="reviewAnswer" hidden>
+            <div>
+              <span>中文</span>
+              <strong id="reviewMeaning"></strong>
+            </div>
+            <div class="example-box">
+              <span>例句</span>
+              <p id="reviewExample"></p>
+              <p class="example-translation" id="reviewExampleZh"></p>
+            </div>
+          </div>
+          <div class="review-ratings" id="reviewRatings" hidden>
+            <button data-rating="again" type="button"><b>忘记了</b><span>5 分钟后</span></button>
+            <button data-rating="hard" type="button"><b>有点模糊</b><span>明天</span></button>
+            <button data-rating="good" type="button"><b>记住了</b><span>按计划</span></button>
+          </div>
+        </article>
+      </section>
+
+      <section class="view" id="view-learned" aria-labelledby="learnedTitle">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">MY WORDS</p>
+            <h2 id="learnedTitle">已学单词</h2>
+          </div>
+          <div class="heading-actions">
+            <span class="review-count"><b id="learnedPageCount">0</b> 个</span>
+            <button class="primary-button small" id="addWordButton" type="button">＋ 添加单词</button>
+          </div>
+        </div>
+        <div class="filter-row">
+          <label class="search-field">
+            <span>⌕</span>
+            <input id="learnedSearch" type="search" placeholder="搜索已学单词">
+          </label>
+          <select id="learnedCategory" aria-label="按分类筛选"></select>
+        </div>
+        <div class="empty-state compact" id="learnedEmpty">
+          <div class="empty-icon">A</div>
+          <h3>还没有已学单词</h3>
+          <p>在“学习”中点击“标记已学”，单词会出现在这里。</p>
+        </div>
+        <div class="word-list" id="learnedList"></div>
+      </section>
+
+      <section class="view" id="view-categories" aria-labelledby="categoriesTitle">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">CATEGORIES</p>
+            <h2 id="categoriesTitle">词汇分类</h2>
+          </div>
+        </div>
+        <p class="intro">全部词汇按工作场景整理，点击分类即可开始学习。</p>
+        <div class="category-grid" id="categoryGrid"></div>
+        <div class="source-note">
+          <strong>资料来源</strong>
+          <p>桌面“阿祖英语学习”文件夹内的 3 份 Word 文档，共整理 <span id="sourceWordCount">0</span> 条词汇与表达。</p>
+        </div>
+      </section>
+    </main>
+
+    <nav class="bottom-nav" aria-label="主要功能">
+      <button class="active" data-view="learn" type="button"><span>◫</span><b>学习</b></button>
+      <button data-view="examples" type="button"><span>≡</span><b>例句</b></button>
+      <button data-view="review" type="button"><span>↻</span><b>复习</b><i id="reviewDot"></i></button>
+      <button data-view="learned" type="button"><span>✓</span><b>已学</b></button>
+      <button data-view="categories" type="button"><span>▦</span><b>分类</b></button>
+    </nav>
+  </div>
+
+  <dialog class="modal" id="settingsDialog">
+    <form method="dialog" class="modal-card">
+      <header class="modal-header">
+        <div>
+          <p class="eyebrow">SETTINGS</p>
+          <h2>设置</h2>
+        </div>
+        <button class="modal-close" value="cancel" aria-label="关闭">×</button>
+      </header>
+
+      <section class="settings-section">
+        <h3>发音设置</h3>
+        <label>
+          <span>英语口音</span>
+          <select id="accentSelect">
+            <option value="en-US">美式英语</option>
+            <option value="en-GB">英式英语</option>
+          </select>
+        </label>
+        <label>
+          <span>系统语音</span>
+          <select id="voiceSelect"></select>
+        </label>
+        <label>
+          <span>语速 <b id="rateValue">0.82×</b></span>
+          <input id="rateRange" type="range" min="0.6" max="1.1" step="0.02">
+        </label>
+        <button class="secondary-button" id="testVoice" type="button">试听：Welcome to Azu English.</button>
+      </section>
+
+      <section class="settings-section danger-zone">
+        <h3>数据删除</h3>
+        <p>这些操作只影响本浏览器中的学习记录和手动添加内容，不会删除原始 Word 文件。</p>
+        <button class="danger-button" id="clearProgress" type="button">清除学习与复习记录</button>
+        <button class="danger-button" id="deleteCustomWords" type="button">删除全部手动添加单词</button>
+        <button class="danger-button solid" id="resetEverything" type="button">恢复到初始状态</button>
+      </section>
+    </form>
+  </dialog>
+
+  <dialog class="modal" id="addWordDialog">
+    <form class="modal-card" id="addWordForm">
+      <header class="modal-header">
+        <div>
+          <p class="eyebrow">CUSTOM WORD</p>
+          <h2>手动添加单词</h2>
+        </div>
+        <button class="modal-close" id="closeAddWord" type="button" aria-label="关闭">×</button>
+      </header>
+
+      <div class="form-grid">
+        <label>
+          <span>英文单词或短语 *</span>
+          <input id="customTerm" required autocomplete="off" placeholder="例如: ventilation duct">
+        </label>
+        <label>
+          <span>音标 *</span>
+          <input id="customPhonetic" required autocomplete="off" placeholder="例如: /ˌvɛntɪˈleɪʃən dʌkt/">
+        </label>
+        <label>
+          <span>中文含义 *</span>
+          <input id="customMeaning" required autocomplete="off" placeholder="例如: 通风管道">
+        </label>
+        <label>
+          <span>分类 *</span>
+          <select id="customCategory" required></select>
+        </label>
+        <label class="full">
+          <span>英文例句 *</span>
+          <textarea id="customExample" required rows="3" placeholder="The ventilation duct was inspected before the shift."></textarea>
+        </label>
+        <label class="full">
+          <span>例句中文翻译 *</span>
+          <textarea id="customExampleZh" required rows="3" placeholder="班前检查了通风管道。"></textarea>
+        </label>
+        <label class="checkbox-label full">
+          <input id="customLearned" type="checkbox" checked>
+          <span>添加后直接标记为已学</span>
+        </label>
+      </div>
+      <p class="form-error" id="addWordError" role="alert"></p>
+      <button class="primary-button" type="submit">保存单词</button>
+    </form>
+  </dialog>
+
+  <script src="data.json"></script>
+  <script src="app.js"></script>
+</body>
+</html>
