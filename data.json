@@ -1,0 +1,6965 @@
+window.AZU_DATA = {
+  "meta": {
+    "title": "阿祖英语学习",
+    "version": 1,
+    "generated": "2026-07-29",
+    "wordCount": 490,
+    "sourceFiles": [
+      "矿业与工作英语词汇及表达参考.docx",
+      "微信文件英语词汇及专业表达参考.docx",
+      "微信英语学习整理_近一年.docx"
+    ],
+    "note": "为兼容直接双击 index.html 离线运行，本文件使用 window.AZU_DATA 包装 JSON 数据。"
+  },
+  "categories": [
+    {
+      "id": "mining",
+      "label": "矿山与井巷"
+    },
+    {
+      "id": "processing",
+      "label": "选矿与生产"
+    },
+    {
+      "id": "equipment",
+      "label": "设备与部件"
+    },
+    {
+      "id": "maintenance",
+      "label": "维修与故障"
+    },
+    {
+      "id": "safety",
+      "label": "安全与环保"
+    },
+    {
+      "id": "reporting",
+      "label": "计划与报告"
+    },
+    {
+      "id": "communication",
+      "label": "工作沟通"
+    },
+    {
+      "id": "management",
+      "label": "项目与合同"
+    }
+  ],
+  "words": [
+    {
+      "term": "underground mobile equipment",
+      "phonetic": "/ˈəndərˌgraʊnd ˈmoʊbəl ɪkˈwɪpmənt/",
+      "meaning": "井下无轨设备",
+      "category": "equipment",
+      "usage": "underground mobile equipment fleet",
+      "example": "The technician checked the underground mobile equipment before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了井下无轨设备。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0001"
+    },
+    {
+      "term": "loader / LHD",
+      "phonetic": "/ˈloʊdər/；LHD /ˌɛl eɪtʃ ˈdiː/",
+      "meaning": "装载机；铲运机",
+      "category": "equipment",
+      "usage": "load–haul–dump machine",
+      "example": "The technician checked the loader / LHD before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了装载机；铲运机。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0002"
+    },
+    {
+      "term": "drill rig",
+      "phonetic": "/drɪl rɪg/",
+      "meaning": "钻机；凿岩台车",
+      "category": "equipment",
+      "usage": "underground drill rig",
+      "example": "The technician checked the drill rig before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了钻机；凿岩台车。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0003"
+    },
+    {
+      "term": "jumbo drill",
+      "phonetic": "/ˈʤəmboʊ drɪl/",
+      "meaning": "掘进凿岩台车",
+      "category": "equipment",
+      "usage": "twin-boom jumbo drill",
+      "example": "The technician checked the jumbo drill before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了掘进凿岩台车。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0004"
+    },
+    {
+      "term": "production drill",
+      "phonetic": "/pərˈdəkʃən drɪl/",
+      "meaning": "中深孔采矿台车",
+      "category": "equipment",
+      "usage": "production drilling rig",
+      "example": "The technician checked the production drill before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了中深孔采矿台车。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0005"
+    },
+    {
+      "term": "shotcrete sprayer",
+      "phonetic": "/ˈʃɑːtkriːt spreɪər/",
+      "meaning": "湿喷台车",
+      "category": "equipment",
+      "usage": "wet-mix shotcrete sprayer",
+      "example": "The technician checked the shotcrete sprayer before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了湿喷台车。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0006"
+    },
+    {
+      "term": "boom",
+      "phonetic": "/bum/",
+      "meaning": "大臂；钻臂",
+      "category": "equipment",
+      "usage": "left boom / right boom",
+      "example": "The technician checked the boom before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了大臂；钻臂。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0007"
+    },
+    {
+      "term": "rock drill",
+      "phonetic": "/rɑk drɪl/",
+      "meaning": "凿岩机",
+      "category": "equipment",
+      "usage": "rock-drill cradle",
+      "example": "The technician checked the rock drill before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了凿岩机。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0008"
+    },
+    {
+      "term": "hammer",
+      "phonetic": "/ˈhæmər/",
+      "meaning": "冲击器；锤体",
+      "category": "equipment",
+      "usage": "hammer carrier",
+      "example": "The technician checked the hammer before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了冲击器；锤体。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0009"
+    },
+    {
+      "term": "feed beam",
+      "phonetic": "/fid bim/",
+      "meaning": "推进梁",
+      "category": "equipment",
+      "usage": "feed-beam alignment",
+      "example": "The technician checked the feed beam before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了推进梁。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0010"
+    },
+    {
+      "term": "centralizer",
+      "phonetic": "/ˈsɛntrəˌlaɪzər/",
+      "meaning": "扶钎器；定心器",
+      "category": "equipment",
+      "usage": "front centralizer",
+      "example": "The technician checked the centralizer before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了扶钎器；定心器。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0011"
+    },
+    {
+      "term": "wire rope",
+      "phonetic": "/waɪər roʊp/",
+      "meaning": "钢丝绳",
+      "category": "equipment",
+      "usage": "feed wire rope",
+      "example": "The technician checked the wire rope before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了钢丝绳。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0012"
+    },
+    {
+      "term": "pulley / guide wheel",
+      "phonetic": "/ˈpʊli ər gaɪd wil/",
+      "meaning": "滑轮；导向轮",
+      "category": "equipment",
+      "usage": "wire-rope guide wheel",
+      "example": "The technician checked the pulley / guide wheel before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了滑轮；导向轮。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0013"
+    },
+    {
+      "term": "bucket",
+      "phonetic": "/ˈbəkɪt/",
+      "meaning": "铲斗",
+      "category": "equipment",
+      "usage": "bucket lifting cylinder",
+      "example": "The technician checked the bucket before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了铲斗。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0014"
+    },
+    {
+      "term": "dump box",
+      "phonetic": "/dəmp bɑks/",
+      "meaning": "车厢；料斗",
+      "category": "equipment",
+      "usage": "dump-box cylinder",
+      "example": "The technician checked the dump box before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了车厢；料斗。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0015"
+    },
+    {
+      "term": "undercarriage",
+      "phonetic": "/ˈəndərˌkærɪʤ/",
+      "meaning": "底盘；行走机构",
+      "category": "equipment",
+      "usage": "undercarriage hose",
+      "example": "The technician checked the undercarriage before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了底盘；行走机构。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0016"
+    },
+    {
+      "term": "engine",
+      "phonetic": "/ˈɪnʤən/",
+      "meaning": "发动机",
+      "category": "equipment",
+      "usage": "engine failure",
+      "example": "The technician checked the engine before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了发动机。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0017"
+    },
+    {
+      "term": "gearbox",
+      "phonetic": "/ˈgɪrˌbɑks/",
+      "meaning": "变速箱",
+      "category": "equipment",
+      "usage": "gearbox housing",
+      "example": "The technician checked the gearbox before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了变速箱。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0018"
+    },
+    {
+      "term": "transmission shaft",
+      "phonetic": "/trænzˈmɪʃən ʃæft/",
+      "meaning": "传动轴",
+      "category": "equipment",
+      "usage": "damaged transmission shaft",
+      "example": "The technician checked the transmission shaft before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了传动轴。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0019"
+    },
+    {
+      "term": "drive shaft / cardan shaft",
+      "phonetic": "/ˈdraɪv ʃæft/；/ˈkɑːrdən ʃæft/",
+      "meaning": "万向传动轴",
+      "category": "equipment",
+      "usage": "cardan-shaft bearing",
+      "example": "The technician checked the drive shaft / cardan shaft before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了万向传动轴。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0020"
+    },
+    {
+      "term": "differential",
+      "phonetic": "/ˌdɪfərˈɛnʃəl/",
+      "meaning": "差速器",
+      "category": "equipment",
+      "usage": "rear differential",
+      "example": "The technician checked the differential before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了差速器。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0021"
+    },
+    {
+      "term": "axle",
+      "phonetic": "/ˈæksəl/",
+      "meaning": "车桥",
+      "category": "equipment",
+      "usage": "rear axle",
+      "example": "The technician checked the axle before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了车桥。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0022"
+    },
+    {
+      "term": "planetary gear",
+      "phonetic": "/ˈplænəˌtɛri gɪr/",
+      "meaning": "行星齿轮",
+      "category": "equipment",
+      "usage": "planetary-gear oil level",
+      "example": "The technician checked the planetary gear before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了行星齿轮。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0023"
+    },
+    {
+      "term": "bearing",
+      "phonetic": "/ˈbɛrɪŋ/",
+      "meaning": "轴承",
+      "category": "equipment",
+      "usage": "replace the bearing",
+      "example": "The technician checked the bearing before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了轴承。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0024"
+    },
+    {
+      "term": "seal",
+      "phonetic": "/sil/",
+      "meaning": "密封件",
+      "category": "equipment",
+      "usage": "oil seal",
+      "example": "The technician checked the seal before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了密封件。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0025"
+    },
+    {
+      "term": "bushing",
+      "phonetic": "/ˈbʊʃɪŋ/",
+      "meaning": "衬套；轴套",
+      "category": "equipment",
+      "usage": "replace the bushing",
+      "example": "The technician checked the bushing before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了衬套；轴套。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0026"
+    },
+    {
+      "term": "bolt",
+      "phonetic": "/boʊlt/",
+      "meaning": "螺栓",
+      "category": "equipment",
+      "usage": "broken mounting bolt",
+      "example": "The technician checked the bolt before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了螺栓。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0027"
+    },
+    {
+      "term": "screw",
+      "phonetic": "/skru/",
+      "meaning": "螺钉",
+      "category": "equipment",
+      "usage": "tighten loose screws",
+      "example": "The technician checked the screw before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了螺钉。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0028"
+    },
+    {
+      "term": "bracket",
+      "phonetic": "/ˈbrækɪt/",
+      "meaning": "支架",
+      "category": "equipment",
+      "usage": "centralizer bracket",
+      "example": "The technician checked the bracket before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了支架。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0029"
+    },
+    {
+      "term": "wiring harness",
+      "phonetic": "/ˈwaɪrɪŋ ˈhɑrnɪs/",
+      "meaning": "线束",
+      "category": "equipment",
+      "usage": "replace the wiring harness",
+      "example": "The technician checked the wiring harness before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了线束。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0030"
+    },
+    {
+      "term": "contactor",
+      "phonetic": "/kənˈtæktər/",
+      "meaning": "接触器",
+      "category": "equipment",
+      "usage": "motor contactor",
+      "example": "The technician checked the contactor before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了接触器。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0031"
+    },
+    {
+      "term": "battery",
+      "phonetic": "/ˈbætəri/",
+      "meaning": "蓄电池",
+      "category": "equipment",
+      "usage": "discharged battery",
+      "example": "The technician checked the battery before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了蓄电池。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0032"
+    },
+    {
+      "term": "radiator",
+      "phonetic": "/ˈreɪdiˌeɪtər/",
+      "meaning": "散热器",
+      "category": "equipment",
+      "usage": "radiator hose",
+      "example": "The technician checked the radiator before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了散热器。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0033"
+    },
+    {
+      "term": "air filter",
+      "phonetic": "/ɛr ˈfɪltər/",
+      "meaning": "空气滤清器",
+      "category": "equipment",
+      "usage": "clean the air filter",
+      "example": "The technician checked the air filter before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了空气滤清器。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0034"
+    },
+    {
+      "term": "air conditioner",
+      "phonetic": "/ɛr kənˈdɪʃənər/",
+      "meaning": "空调",
+      "category": "equipment",
+      "usage": "air-conditioning failure",
+      "example": "The technician checked the air conditioner before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了空调。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0035"
+    },
+    {
+      "term": "turn signal",
+      "phonetic": "/tərn ˈsɪgnəl/",
+      "meaning": "转向灯",
+      "category": "equipment",
+      "usage": "front left turn signal",
+      "example": "The technician checked the turn signal before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了转向灯。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0036"
+    },
+    {
+      "term": "warning light",
+      "phonetic": "/ˈwɔrnɪŋ laɪt/",
+      "meaning": "警示灯",
+      "category": "equipment",
+      "usage": "anti-collision warning light",
+      "example": "The technician checked the warning light before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了警示灯。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0037"
+    },
+    {
+      "term": "horn",
+      "phonetic": "/hɔrn/",
+      "meaning": "喇叭",
+      "category": "equipment",
+      "usage": "replace the horn",
+      "example": "The technician checked the horn before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了喇叭。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0038"
+    },
+    {
+      "term": "tyre / tire",
+      "phonetic": "/taɪər ər taɪər/",
+      "meaning": "轮胎",
+      "category": "equipment",
+      "usage": "rear-right tyre",
+      "example": "The technician checked the tyre / tire before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了轮胎。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0039"
+    },
+    {
+      "term": "windshield",
+      "phonetic": "/ˈwɪndˌʃild/",
+      "meaning": "挡风玻璃",
+      "category": "equipment",
+      "usage": "rear windshield",
+      "example": "The technician checked the windshield before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了挡风玻璃。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0040"
+    },
+    {
+      "term": "hydraulic system",
+      "phonetic": "/haɪˈdrɔlɪk ˈsɪstəm/",
+      "meaning": "液压系统",
+      "category": "equipment",
+      "usage": "hydraulic-system failure",
+      "example": "The technician checked the hydraulic system before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了液压系统。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0041"
+    },
+    {
+      "term": "hydraulic hose",
+      "phonetic": "/haɪˈdrɔlɪk hoʊz/",
+      "meaning": "液压软管",
+      "category": "equipment",
+      "usage": "replace a ruptured hydraulic hose",
+      "example": "The technician checked the hydraulic hose before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了液压软管。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0042"
+    },
+    {
+      "term": "water hose",
+      "phonetic": "/ˈwɔtər hoʊz/",
+      "meaning": "水管；水软管",
+      "category": "equipment",
+      "usage": "M19 × 1 m water hose",
+      "example": "The technician checked the water hose before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了水管；水软管。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0043"
+    },
+    {
+      "term": "oil pipe / oil line",
+      "phonetic": "/ɔɪl paɪp ər ɔɪl laɪn/",
+      "meaning": "油管",
+      "category": "equipment",
+      "usage": "repair the leaking oil line",
+      "example": "The technician checked the oil pipe / oil line before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了油管。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0044"
+    },
+    {
+      "term": "hose fitting",
+      "phonetic": "/hoʊz ˈfɪtɪŋ/",
+      "meaning": "软管接头",
+      "category": "equipment",
+      "usage": "replace the hose fitting",
+      "example": "The technician checked the hose fitting before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了软管接头。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0045"
+    },
+    {
+      "term": "pipe clamp",
+      "phonetic": "/paɪp klæmp/",
+      "meaning": "管夹",
+      "category": "equipment",
+      "usage": "install the oil-pipe clamp",
+      "example": "The technician checked the pipe clamp before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了管夹。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0046"
+    },
+    {
+      "term": "hose guard",
+      "phonetic": "/hoʊz gɑrd/",
+      "meaning": "软管防护套",
+      "category": "equipment",
+      "usage": "secure the hose guard",
+      "example": "The technician checked the hose guard before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了软管防护套。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0047"
+    },
+    {
+      "term": "spiral hose protector",
+      "phonetic": "/ˈspaɪrəl hoʊz prəˈtɛktər/",
+      "meaning": "软管螺旋保护套",
+      "category": "equipment",
+      "usage": "fit a spiral hose protector",
+      "example": "The technician checked the spiral hose protector before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了软管螺旋保护套。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0048"
+    },
+    {
+      "term": "hydraulic cylinder",
+      "phonetic": "/haɪˈdrɔlɪk ˈsɪlɪndər/",
+      "meaning": "液压缸",
+      "category": "equipment",
+      "usage": "boom-lift cylinder",
+      "example": "The technician checked the hydraulic cylinder before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了液压缸。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0049"
+    },
+    {
+      "term": "steering cylinder",
+      "phonetic": "/ˈstɪrɪŋ ˈsɪlɪndər/",
+      "meaning": "转向油缸",
+      "category": "equipment",
+      "usage": "steering-cylinder hose",
+      "example": "The technician checked the steering cylinder before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了转向油缸。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0050"
+    },
+    {
+      "term": "propulsion cylinder",
+      "phonetic": "/prəˈpəlʃən ˈsɪlɪndər/",
+      "meaning": "推进油缸",
+      "category": "equipment",
+      "usage": "feed/propulsion cylinder",
+      "example": "The technician checked the propulsion cylinder before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了推进油缸。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0051"
+    },
+    {
+      "term": "valve",
+      "phonetic": "/vælv/",
+      "meaning": "阀",
+      "category": "equipment",
+      "usage": "steering control valve",
+      "example": "The technician checked the valve before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了阀。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx",
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0052"
+    },
+    {
+      "term": "solenoid coil",
+      "phonetic": "/ˈsoʊləˌnɔɪd kɔɪl/",
+      "meaning": "电磁线圈",
+      "category": "equipment",
+      "usage": "lubrication solenoid coil",
+      "example": "The technician checked the solenoid coil before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了电磁线圈。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0053"
+    },
+    {
+      "term": "hydraulic pump",
+      "phonetic": "/haɪˈdrɔlɪk pəmp/",
+      "meaning": "液压泵",
+      "category": "equipment",
+      "usage": "tighten the hydraulic pump",
+      "example": "The technician checked the hydraulic pump before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了液压泵。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0054"
+    },
+    {
+      "term": "oil leakage / oil leak",
+      "phonetic": "/ɔɪl ˈlikɪʤ ər ɔɪl lik/",
+      "meaning": "漏油",
+      "category": "equipment",
+      "usage": "rectify the oil leak",
+      "example": "The technician checked the oil leakage / oil leak before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了漏油。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0055"
+    },
+    {
+      "term": "coolant leak",
+      "phonetic": "/ˈkulənt lik/",
+      "meaning": "冷却液泄漏",
+      "category": "equipment",
+      "usage": "repair a coolant leak",
+      "example": "The technician checked the coolant leak before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了冷却液泄漏。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0056"
+    },
+    {
+      "term": "lubrication",
+      "phonetic": "/ˌlubrɪˈkeɪʃən/",
+      "meaning": "润滑",
+      "category": "equipment",
+      "usage": "check equipment lubrication",
+      "example": "The technician checked the lubrication before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了润滑。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx",
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0057"
+    },
+    {
+      "term": "grease fitting / grease nipple",
+      "phonetic": "/gris ˈfɪtɪŋ ər gris ˈnɪpəl/",
+      "meaning": "黄油嘴",
+      "category": "equipment",
+      "usage": "replace worn grease nipples",
+      "example": "The technician checked the grease fitting / grease nipple before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了黄油嘴。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0058"
+    },
+    {
+      "term": "oil level",
+      "phonetic": "/ɔɪl ˈlɛvəl/",
+      "meaning": "油位",
+      "category": "equipment",
+      "usage": "check the differential oil level",
+      "example": "The technician checked the oil level before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了油位。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0059"
+    },
+    {
+      "term": "hydraulic oil",
+      "phonetic": "/haɪˈdrɔlɪk ɔɪl/",
+      "meaning": "液压油",
+      "category": "equipment",
+      "usage": "top up hydraulic oil",
+      "example": "The technician checked the hydraulic oil before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了液压油。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0060"
+    },
+    {
+      "term": "antifreeze / coolant",
+      "phonetic": "/ˈæntiˌfriz ər ˈkulənt/",
+      "meaning": "防冻液；冷却液",
+      "category": "equipment",
+      "usage": "spilled coolant",
+      "example": "The technician checked the antifreeze / coolant before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了防冻液；冷却液。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0061"
+    },
+    {
+      "term": "pressure",
+      "phonetic": "/ˈprɛʃər/",
+      "meaning": "压力",
+      "category": "equipment",
+      "usage": "water pressure",
+      "example": "The technician checked the pressure before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了压力。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0062"
+    },
+    {
+      "term": "accumulator",
+      "phonetic": "/əˈkjumjəˌleɪtər/",
+      "meaning": "蓄能器",
+      "category": "equipment",
+      "usage": "impact accumulator",
+      "example": "The technician checked the accumulator before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了蓄能器。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0063"
+    },
+    {
+      "term": "heat exchanger",
+      "phonetic": "/hit ɪksˈʧeɪnʤər/",
+      "meaning": "换热器",
+      "category": "equipment",
+      "usage": "remove the hydraulic heat exchanger",
+      "example": "The technician checked the heat exchanger before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了换热器。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0064"
+    },
+    {
+      "term": "inspect",
+      "phonetic": "/ˌɪnˈspɛkt/",
+      "meaning": "检查",
+      "category": "maintenance",
+      "usage": "inspect the machine",
+      "example": "The technician will inspect the equipment before operation.",
+      "exampleZh": "技术员将在设备运行前进行检查。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0065"
+    },
+    {
+      "term": "pre-shift inspection",
+      "phonetic": "/pri ʃɪft ˌɪnˈspɛkʃən/",
+      "meaning": "班前检查",
+      "category": "maintenance",
+      "usage": "complete the pre-shift inspection",
+      "example": "The report uses “pre-shift inspection” to describe the maintenance status.",
+      "exampleZh": "报告使用“班前检查”描述维修状态。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0066"
+    },
+    {
+      "term": "troubleshoot",
+      "phonetic": "/ˈtrʌbəlˌʃuːt/",
+      "meaning": "故障排查",
+      "category": "maintenance",
+      "usage": "troubleshoot the electrical system",
+      "example": "The technician will troubleshoot the equipment before operation.",
+      "exampleZh": "技术员将在设备运行前进行故障排查。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0067"
+    },
+    {
+      "term": "diagnose",
+      "phonetic": "/ˌdaɪəgˈnoʊs/",
+      "meaning": "诊断",
+      "category": "maintenance",
+      "usage": "diagnose the cause of the failure",
+      "example": "The technician will diagnose the equipment before operation.",
+      "exampleZh": "技术员将在设备运行前进行诊断。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0068"
+    },
+    {
+      "term": "repair",
+      "phonetic": "/rɪˈpɛr/",
+      "meaning": "维修",
+      "category": "maintenance",
+      "usage": "repair the damaged hose",
+      "example": "The technician will repair the equipment before operation.",
+      "exampleZh": "技术员将在设备运行前进行维修。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx",
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0069"
+    },
+    {
+      "term": "replace",
+      "phonetic": "/ˌriˈpleɪs/",
+      "meaning": "更换",
+      "category": "maintenance",
+      "usage": "replace the oil seal",
+      "example": "The technician will replace the equipment before operation.",
+      "exampleZh": "技术员将在设备运行前进行更换。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0070"
+    },
+    {
+      "term": "remove",
+      "phonetic": "/riˈmuv/",
+      "meaning": "拆下",
+      "category": "maintenance",
+      "usage": "remove the damaged component",
+      "example": "The technician will remove the equipment before operation.",
+      "exampleZh": "技术员将在设备运行前进行拆下。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0071"
+    },
+    {
+      "term": "dismantle / disassemble",
+      "phonetic": "/dɪsˈmænəl ər ˌdɪsəˈsɛmbəl/",
+      "meaning": "拆解",
+      "category": "maintenance",
+      "usage": "dismantle the engine for inspection",
+      "example": "The technician will dismantle the equipment before operation.",
+      "exampleZh": "技术员将在设备运行前进行拆解。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0072"
+    },
+    {
+      "term": "assemble / reassemble",
+      "phonetic": "/əˈsɛmbəl ər ˌriəˈsɛmbəl/",
+      "meaning": "装配；重新组装",
+      "category": "maintenance",
+      "usage": "reassemble the gearbox",
+      "example": "The technician will assemble the equipment before operation.",
+      "exampleZh": "技术员将在设备运行前进行装配；重新组装。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0073"
+    },
+    {
+      "term": "install",
+      "phonetic": "/ˌɪnˈstɔl/",
+      "meaning": "安装",
+      "category": "maintenance",
+      "usage": "install the new cylinder",
+      "example": "The technician will install the equipment before operation.",
+      "exampleZh": "技术员将在设备运行前进行安装。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0074"
+    },
+    {
+      "term": "tighten",
+      "phonetic": "/ˈtaɪtən/",
+      "meaning": "紧固",
+      "category": "maintenance",
+      "usage": "tighten all loose bolts",
+      "example": "The technician will tighten the equipment before operation.",
+      "exampleZh": "技术员将在设备运行前进行紧固。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0075"
+    },
+    {
+      "term": "torque",
+      "phonetic": "/tɔrk/",
+      "meaning": "按规定扭矩紧固",
+      "category": "maintenance",
+      "usage": "torque the mounting bolts",
+      "example": "The technician will torque the equipment before operation.",
+      "exampleZh": "技术员将在设备运行前进行按规定扭矩紧固。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0076"
+    },
+    {
+      "term": "weld",
+      "phonetic": "/wɛld/",
+      "meaning": "焊接",
+      "category": "maintenance",
+      "usage": "weld the cracked bracket",
+      "example": "The technician will weld the equipment before operation.",
+      "exampleZh": "技术员将在设备运行前进行焊接。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0077"
+    },
+    {
+      "term": "fabricate",
+      "phonetic": "/ˈfæbrəˌkeɪt/",
+      "meaning": "制作；加工",
+      "category": "maintenance",
+      "usage": "fabricate a new support bracket",
+      "example": "The technician will fabricate the equipment before operation.",
+      "exampleZh": "技术员将在设备运行前进行制作；加工。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0078"
+    },
+    {
+      "term": "adjust",
+      "phonetic": "/əˈʤəst/",
+      "meaning": "调整",
+      "category": "maintenance",
+      "usage": "adjust the pull rope",
+      "example": "The technician will adjust the equipment before operation.",
+      "exampleZh": "技术员将在设备运行前进行调整。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0079"
+    },
+    {
+      "term": "align",
+      "phonetic": "/əˈlaɪn/",
+      "meaning": "校正；对中",
+      "category": "maintenance",
+      "usage": "align the feed beam",
+      "example": "The technician will align the equipment before operation.",
+      "exampleZh": "技术员将在设备运行前进行校正；对中。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0080"
+    },
+    {
+      "term": "calibrate",
+      "phonetic": "/ˈkæləˌbreɪt/",
+      "meaning": "校准",
+      "category": "maintenance",
+      "usage": "calibrate the boom controls",
+      "example": "The technician will calibrate the equipment before operation.",
+      "exampleZh": "技术员将在设备运行前进行校准。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0081"
+    },
+    {
+      "term": "clean",
+      "phonetic": "/klin/",
+      "meaning": "清洁",
+      "category": "maintenance",
+      "usage": "clean the air filter",
+      "example": "The technician will clean the equipment before operation.",
+      "exampleZh": "技术员将在设备运行前进行清洁。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0082"
+    },
+    {
+      "term": "lubricate",
+      "phonetic": "/ˈlubrɪˌkeɪt/",
+      "meaning": "润滑",
+      "category": "maintenance",
+      "usage": "lubricate all grease points",
+      "example": "The technician will lubricate the equipment before operation.",
+      "exampleZh": "技术员将在设备运行前进行润滑。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0083"
+    },
+    {
+      "term": "top up",
+      "phonetic": "/tɔp əp/",
+      "meaning": "补充液体",
+      "category": "maintenance",
+      "usage": "top up the gearbox oil",
+      "example": "The technician will top up the equipment before operation.",
+      "exampleZh": "技术员将在设备运行前进行补充液体。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0084"
+    },
+    {
+      "term": "test run",
+      "phonetic": "/tɛst rən/",
+      "meaning": "试运行",
+      "category": "maintenance",
+      "usage": "conduct a test run",
+      "example": "The report uses “test run” to describe the maintenance status.",
+      "exampleZh": "报告使用“试运行”描述维修状态。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0085"
+    },
+    {
+      "term": "commission",
+      "phonetic": "/kəˈmɪʃən/",
+      "meaning": "调试并投入运行",
+      "category": "maintenance",
+      "usage": "commission the repaired machine",
+      "example": "The technician will commission the equipment before operation.",
+      "exampleZh": "技术员将在设备运行前进行调试并投入运行。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0086"
+    },
+    {
+      "term": "overhaul",
+      "phonetic": "/ˈoʊvərˌhɔl/",
+      "meaning": "大修",
+      "category": "maintenance",
+      "usage": "overhaul the engine",
+      "example": "The technician will overhaul the equipment before operation.",
+      "exampleZh": "技术员将在设备运行前进行大修。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx",
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0087"
+    },
+    {
+      "term": "preventive maintenance",
+      "phonetic": "/prɪˈvɛnɪv ˈmeɪntənəns/",
+      "meaning": "预防性维护",
+      "category": "maintenance",
+      "usage": "preventive-maintenance schedule",
+      "example": "The report uses “preventive maintenance” to describe the maintenance status.",
+      "exampleZh": "报告使用“预防性维护”描述维修状态。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx",
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0088"
+    },
+    {
+      "term": "planned service",
+      "phonetic": "/plænd ˈsərvɪs/",
+      "meaning": "计划保养",
+      "category": "maintenance",
+      "usage": "500-hour planned service",
+      "example": "The report uses “planned service” to describe the maintenance status.",
+      "exampleZh": "报告使用“计划保养”描述维修状态。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0089"
+    },
+    {
+      "term": "corrective maintenance",
+      "phonetic": "/kərˈɛktɪv ˈmeɪntənəns/",
+      "meaning": "故障维修",
+      "category": "maintenance",
+      "usage": "corrective-maintenance task",
+      "example": "The report uses “corrective maintenance” to describe the maintenance status.",
+      "exampleZh": "报告使用“故障维修”描述维修状态。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0090"
+    },
+    {
+      "term": "in progress",
+      "phonetic": "/ɪn ˈprɑˌgrɛs/",
+      "meaning": "正在进行",
+      "category": "maintenance",
+      "usage": "repairs are in progress",
+      "example": "The report uses “in progress” to describe the maintenance status.",
+      "exampleZh": "报告使用“正在进行”描述维修状态。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0091"
+    },
+    {
+      "term": "completed",
+      "phonetic": "/kəmˈplitɪd/",
+      "meaning": "已完成",
+      "category": "maintenance",
+      "usage": "repair completed",
+      "example": "The report uses “completed” to describe the maintenance status.",
+      "exampleZh": "报告使用“已完成”描述维修状态。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0092"
+    },
+    {
+      "term": "not completed",
+      "phonetic": "/nɑt kəmˈplitɪd/",
+      "meaning": "尚未完成",
+      "category": "maintenance",
+      "usage": "replacement is not yet complete",
+      "example": "The report uses “not completed” to describe the maintenance status.",
+      "exampleZh": "报告使用“尚未完成”描述维修状态。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0093"
+    },
+    {
+      "term": "awaiting spare parts",
+      "phonetic": "/əˈweɪtɪŋ spɛr pɑrts/",
+      "meaning": "等待备件",
+      "category": "maintenance",
+      "usage": "equipment awaiting spare parts",
+      "example": "The report uses “awaiting spare parts” to describe the maintenance status.",
+      "exampleZh": "报告使用“等待备件”描述维修状态。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0094"
+    },
+    {
+      "term": "out of service",
+      "phonetic": "/aʊt əv ˈsərvɪs/",
+      "meaning": "停用；停机",
+      "category": "maintenance",
+      "usage": "machine taken out of service",
+      "example": "The report uses “out of service” to describe the maintenance status.",
+      "exampleZh": "报告使用“停用；停机”描述维修状态。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0095"
+    },
+    {
+      "term": "returned to service",
+      "phonetic": "/rɪˈtərnd tɪ ˈsərvɪs/",
+      "meaning": "恢复运行",
+      "category": "maintenance",
+      "usage": "returned to service after testing",
+      "example": "The report uses “returned to service” to describe the maintenance status.",
+      "exampleZh": "报告使用“恢复运行”描述维修状态。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0096"
+    },
+    {
+      "term": "backup equipment",
+      "phonetic": "/ˈbæˌkəp ɪkˈwɪpmənt/",
+      "meaning": "备用设备",
+      "category": "maintenance",
+      "usage": "use backup equipment",
+      "example": "The report uses “backup equipment” to describe the maintenance status.",
+      "exampleZh": "报告使用“备用设备”描述维修状态。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0097"
+    },
+    {
+      "term": "breakdown",
+      "phonetic": "/ˈbreɪkˌdaʊn/",
+      "meaning": "故障；停机事件",
+      "category": "maintenance",
+      "usage": "equipment breakdown",
+      "example": "The report uses “breakdown” to describe the maintenance status.",
+      "exampleZh": "报告使用“故障；停机事件”描述维修状态。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx",
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0098"
+    },
+    {
+      "term": "breakdown type",
+      "phonetic": "/ˈbreɪkˌdaʊn taɪp/",
+      "meaning": "故障类型",
+      "category": "maintenance",
+      "usage": "Breakdown Type",
+      "example": "The report uses “breakdown type” to describe the maintenance status.",
+      "exampleZh": "报告使用“故障类型”描述维修状态。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0099"
+    },
+    {
+      "term": "equipment failure",
+      "phonetic": "/ɪkˈwɪpmənt ˈfeɪljər/",
+      "meaning": "设备故障",
+      "category": "maintenance",
+      "usage": "engine-system failure",
+      "example": "The report uses “equipment failure” to describe the maintenance status.",
+      "exampleZh": "报告使用“设备故障”描述维修状态。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx",
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0100"
+    },
+    {
+      "term": "hydraulic failure",
+      "phonetic": "/haɪˈdrɔlɪk ˈfeɪljər/",
+      "meaning": "液压故障",
+      "category": "maintenance",
+      "usage": "hydraulic-system failure",
+      "example": "The report uses “hydraulic failure” to describe the maintenance status.",
+      "exampleZh": "报告使用“液压故障”描述维修状态。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0101"
+    },
+    {
+      "term": "electrical failure",
+      "phonetic": "/ɪˈlɛktrɪkəl ˈfeɪljər/",
+      "meaning": "电气故障",
+      "category": "maintenance",
+      "usage": "electrical-system fault",
+      "example": "The report uses “electrical failure” to describe the maintenance status.",
+      "exampleZh": "报告使用“电气故障”描述维修状态。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0102"
+    },
+    {
+      "term": "power-supply fault",
+      "phonetic": "/paʊər səˈplaɪ fɔlt/",
+      "meaning": "供电故障",
+      "category": "maintenance",
+      "usage": "loss of power due to a supply fault",
+      "example": "The report uses “power-supply fault” to describe the maintenance status.",
+      "exampleZh": "报告使用“供电故障”描述维修状态。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0103"
+    },
+    {
+      "term": "hose rupture",
+      "phonetic": "/hoʊz ˈrəpʧər/",
+      "meaning": "软管爆裂",
+      "category": "maintenance",
+      "usage": "ruptured water hose",
+      "example": "The report uses “hose rupture” to describe the maintenance status.",
+      "exampleZh": "报告使用“软管爆裂”描述维修状态。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0104"
+    },
+    {
+      "term": "oil leak",
+      "phonetic": "/ɔɪl lik/",
+      "meaning": "漏油",
+      "category": "maintenance",
+      "usage": "oil leak at the front end of the boom",
+      "example": "The report uses “oil leak” to describe the maintenance status.",
+      "exampleZh": "报告使用“漏油”描述维修状态。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0105"
+    },
+    {
+      "term": "damaged component",
+      "phonetic": "/ˈdæmɪʤd kəmˈpoʊnənt/",
+      "meaning": "损坏部件",
+      "category": "maintenance",
+      "usage": "replace the damaged component",
+      "example": "The report uses “damaged component” to describe the maintenance status.",
+      "exampleZh": "报告使用“损坏部件”描述维修状态。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0106"
+    },
+    {
+      "term": "loose bolt",
+      "phonetic": "/lus boʊlt/",
+      "meaning": "松动螺栓",
+      "category": "maintenance",
+      "usage": "tighten the loose bolt",
+      "example": "The report uses “loose bolt” to describe the maintenance status.",
+      "exampleZh": "报告使用“松动螺栓”描述维修状态。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0107"
+    },
+    {
+      "term": "worn component",
+      "phonetic": "/wɔrn kəmˈpoʊnənt/",
+      "meaning": "磨损部件",
+      "category": "maintenance",
+      "usage": "worn jaw clamp",
+      "example": "The report uses “worn component” to describe the maintenance status.",
+      "exampleZh": "报告使用“磨损部件”描述维修状态。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0108"
+    },
+    {
+      "term": "blocked fitting",
+      "phonetic": "/blɑkt ˈfɪtɪŋ/",
+      "meaning": "堵塞的接头",
+      "category": "maintenance",
+      "usage": "blocked grease fitting",
+      "example": "The report uses “blocked fitting” to describe the maintenance status.",
+      "exampleZh": "报告使用“堵塞的接头”描述维修状态。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0109"
+    },
+    {
+      "term": "engine hours",
+      "phonetic": "/ˈɪnʤən aʊərz/",
+      "meaning": "发动机小时数",
+      "category": "maintenance",
+      "usage": "Engine Hours",
+      "example": "The report uses “engine hours” to describe the maintenance status.",
+      "exampleZh": "报告使用“发动机小时数”描述维修状态。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0110"
+    },
+    {
+      "term": "time in",
+      "phonetic": "/taɪm ɪn/",
+      "meaning": "维修开始/进场时间",
+      "category": "maintenance",
+      "usage": "Time In",
+      "example": "The report uses “time in” to describe the maintenance status.",
+      "exampleZh": "报告使用“维修开始/进场时间”描述维修状态。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0111"
+    },
+    {
+      "term": "time out",
+      "phonetic": "/taɪm aʊt/",
+      "meaning": "维修结束/出场时间",
+      "category": "maintenance",
+      "usage": "Time Out",
+      "example": "The report uses “time out” to describe the maintenance status.",
+      "exampleZh": "报告使用“维修结束/出场时间”描述维修状态。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0112"
+    },
+    {
+      "term": "service time",
+      "phonetic": "/ˈsərvɪs taɪm/",
+      "meaning": "维修工时",
+      "category": "maintenance",
+      "usage": "Service Time",
+      "example": "The report uses “service time” to describe the maintenance status.",
+      "exampleZh": "报告使用“维修工时”描述维修状态。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0113"
+    },
+    {
+      "term": "downtime",
+      "phonetic": "/ˈdaʊnˌtaɪm/",
+      "meaning": "停机时间",
+      "category": "maintenance",
+      "usage": "total equipment downtime",
+      "example": "The report uses “downtime” to describe the maintenance status.",
+      "exampleZh": "报告使用“停机时间”描述维修状态。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx",
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0114"
+    },
+    {
+      "term": "availability",
+      "phonetic": "/əˌveɪləˈbɪlɪti/",
+      "meaning": "设备可用率",
+      "category": "maintenance",
+      "usage": "mechanical availability",
+      "example": "The report uses “availability” to describe the maintenance status.",
+      "exampleZh": "报告使用“设备可用率”描述维修状态。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0115"
+    },
+    {
+      "term": "utilization",
+      "phonetic": "/ˌjutələˈzeɪʃən/",
+      "meaning": "设备利用率",
+      "category": "maintenance",
+      "usage": "fleet utilization",
+      "example": "The report uses “utilization” to describe the maintenance status.",
+      "exampleZh": "报告使用“设备利用率”描述维修状态。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0116"
+    },
+    {
+      "term": "operating hours",
+      "phonetic": "/ˈɔpərˌeɪtɪŋ aʊərz/",
+      "meaning": "运行小时数",
+      "category": "maintenance",
+      "usage": "monthly operating hours",
+      "example": "The report uses “operating hours” to describe the maintenance status.",
+      "exampleZh": "报告使用“运行小时数”描述维修状态。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0117"
+    },
+    {
+      "term": "maintenance hours",
+      "phonetic": "/ˈmeɪntənəns aʊərz/",
+      "meaning": "维修小时数",
+      "category": "maintenance",
+      "usage": "total maintenance hours",
+      "example": "The report uses “maintenance hours” to describe the maintenance status.",
+      "exampleZh": "报告使用“维修小时数”描述维修状态。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0118"
+    },
+    {
+      "term": "mean time between failures (MTBF)",
+      "phonetic": "/ˌmiːn taɪm bɪˌtwiːn ˈfeɪljərz/",
+      "meaning": "平均故障间隔",
+      "category": "maintenance",
+      "usage": "improve MTBF",
+      "example": "The report uses “mean time between failures (MTBF)” to describe the maintenance status.",
+      "exampleZh": "报告使用“平均故障间隔”描述维修状态。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0119"
+    },
+    {
+      "term": "mean time to repair (MTTR)",
+      "phonetic": "/ˌmiːn taɪm tə rɪˈpɛr/",
+      "meaning": "平均修复时间",
+      "category": "maintenance",
+      "usage": "reduce MTTR",
+      "example": "The report uses “mean time to repair (MTTR)” to describe the maintenance status.",
+      "exampleZh": "报告使用“平均修复时间”描述维修状态。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0120"
+    },
+    {
+      "term": "spare parts",
+      "phonetic": "/spɛr pɑrts/",
+      "meaning": "备件",
+      "category": "maintenance",
+      "usage": "critical spare parts",
+      "example": "The report uses “spare parts” to describe the maintenance status.",
+      "exampleZh": "报告使用“备件”描述维修状态。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0121"
+    },
+    {
+      "term": "lead time",
+      "phonetic": "/lɛd taɪm/",
+      "meaning": "供货周期",
+      "category": "maintenance",
+      "usage": "spare-parts lead time",
+      "example": "The report uses “lead time” to describe the maintenance status.",
+      "exampleZh": "报告使用“供货周期”描述维修状态。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0122"
+    },
+    {
+      "term": "expedite",
+      "phonetic": "/ˈɛkspɪˌdaɪt/",
+      "meaning": "催交；加急",
+      "category": "maintenance",
+      "usage": "expedite the remaining spare parts",
+      "example": "The technician will expedite the equipment before operation.",
+      "exampleZh": "技术员将在设备运行前进行催交；加急。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0123"
+    },
+    {
+      "term": "expected completion date",
+      "phonetic": "/ɪkˈspɛktɪd kəmˈpliʃən deɪt/",
+      "meaning": "预计完成日期",
+      "category": "maintenance",
+      "usage": "expected completion date",
+      "example": "The report uses “expected completion date” to describe the maintenance status.",
+      "exampleZh": "报告使用“预计完成日期”描述维修状态。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0124"
+    },
+    {
+      "term": "repair status",
+      "phonetic": "/rɪˈpɛr ˈstætəs/",
+      "meaning": "维修状态",
+      "category": "maintenance",
+      "usage": "daily repair status",
+      "example": "The report uses “repair status” to describe the maintenance status.",
+      "exampleZh": "报告使用“维修状态”描述维修状态。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0125"
+    },
+    {
+      "term": "root cause",
+      "phonetic": "/rut kɔz/",
+      "meaning": "根本原因",
+      "category": "maintenance",
+      "usage": "identify the root cause",
+      "example": "The report uses “root cause” to describe the maintenance status.",
+      "exampleZh": "报告使用“根本原因”描述维修状态。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx",
+        "矿业与工作英语词汇及表达参考.docx",
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0126"
+    },
+    {
+      "term": "remark",
+      "phonetic": "/rɪˈmɑrk/",
+      "meaning": "备注",
+      "category": "maintenance",
+      "usage": "maintenance remark",
+      "example": "The report uses “remark” to describe the maintenance status.",
+      "exampleZh": "报告使用“备注”描述维修状态。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0127"
+    },
+    {
+      "term": "PPE inspection",
+      "phonetic": "/ˌpiː piː ˈiː ɪnˈspɛkʃən/",
+      "meaning": "个人防护用品检查",
+      "category": "safety",
+      "usage": "PPE inspection findings",
+      "example": "The supervisor discussed PPE inspection during the safety briefing.",
+      "exampleZh": "主管在安全交底期间讨论了个人防护用品检查。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0128"
+    },
+    {
+      "term": "safety observation",
+      "phonetic": "/ˈseɪfti ˌɑbzərˈveɪʃən/",
+      "meaning": "安全行为观察",
+      "category": "safety",
+      "usage": "safety-observation record",
+      "example": "The supervisor discussed safety observation during the safety briefing.",
+      "exampleZh": "主管在安全交底期间讨论了安全行为观察。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0129"
+    },
+    {
+      "term": "inspection finding",
+      "phonetic": "/ˌɪnˈspɛkʃən ˈfaɪndɪŋ/",
+      "meaning": "检查发现项",
+      "category": "safety",
+      "usage": "inspection findings",
+      "example": "The supervisor discussed inspection finding during the safety briefing.",
+      "exampleZh": "主管在安全交底期间讨论了检查发现项。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0130"
+    },
+    {
+      "term": "unsafe act",
+      "phonetic": "/ənˈseɪf ækt/",
+      "meaning": "不安全行为",
+      "category": "safety",
+      "usage": "correct an unsafe act",
+      "example": "The supervisor discussed unsafe act during the safety briefing.",
+      "exampleZh": "主管在安全交底期间讨论了不安全行为。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx",
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0131"
+    },
+    {
+      "term": "unsafe condition",
+      "phonetic": "/ənˈseɪf kənˈdɪʃən/",
+      "meaning": "不安全状态",
+      "category": "safety",
+      "usage": "report an unsafe condition",
+      "example": "The supervisor discussed unsafe condition during the safety briefing.",
+      "exampleZh": "主管在安全交底期间讨论了不安全状态。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx",
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0132"
+    },
+    {
+      "term": "hazard",
+      "phonetic": "/ˈhæzərd/",
+      "meaning": "隐患；危险源",
+      "category": "safety",
+      "usage": "identify a hazard",
+      "example": "The supervisor discussed hazard during the safety briefing.",
+      "exampleZh": "主管在安全交底期间讨论了隐患；危险源。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx",
+        "矿业与工作英语词汇及表达参考.docx",
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0133"
+    },
+    {
+      "term": "risk level",
+      "phonetic": "/rɪsk ˈlɛvəl/",
+      "meaning": "风险等级",
+      "category": "safety",
+      "usage": "high-risk observation",
+      "example": "The supervisor discussed risk level during the safety briefing.",
+      "exampleZh": "主管在安全交底期间讨论了风险等级。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0134"
+    },
+    {
+      "term": "low risk",
+      "phonetic": "/loʊ rɪsk/",
+      "meaning": "低风险",
+      "category": "safety",
+      "usage": "low-risk finding",
+      "example": "The supervisor discussed low risk during the safety briefing.",
+      "exampleZh": "主管在安全交底期间讨论了低风险。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0135"
+    },
+    {
+      "term": "corrective action",
+      "phonetic": "/kərˈɛktɪv ˈækʃən/",
+      "meaning": "整改措施",
+      "category": "safety",
+      "usage": "assign corrective actions",
+      "example": "The supervisor discussed corrective action during the safety briefing.",
+      "exampleZh": "主管在安全交底期间讨论了整改措施。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx",
+        "矿业与工作英语词汇及表达参考.docx",
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0136"
+    },
+    {
+      "term": "responsible department",
+      "phonetic": "/riˈspɑnsəbəl dɪˈpɑrtmənt/",
+      "meaning": "责任部门",
+      "category": "safety",
+      "usage": "corrective-action owner",
+      "example": "The supervisor discussed responsible department during the safety briefing.",
+      "exampleZh": "主管在安全交底期间讨论了责任部门。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx",
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0137"
+    },
+    {
+      "term": "close out",
+      "phonetic": "/kloʊz aʊt/",
+      "meaning": "完成闭环",
+      "category": "safety",
+      "usage": "close out the finding",
+      "example": "The technician will close out the equipment before operation.",
+      "exampleZh": "技术员将在设备运行前进行完成闭环。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0138"
+    },
+    {
+      "term": "follow-up inspection",
+      "phonetic": "/ˈfɑloʊ əp ˌɪnˈspɛkʃən/",
+      "meaning": "复查",
+      "category": "safety",
+      "usage": "conduct a follow-up inspection",
+      "example": "The supervisor discussed follow-up inspection during the safety briefing.",
+      "exampleZh": "主管在安全交底期间讨论了复查。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0139"
+    },
+    {
+      "term": "compliant item",
+      "phonetic": "/kəmˈplaɪənt ˈaɪtəm/",
+      "meaning": "符合项",
+      "category": "safety",
+      "usage": "compliant observation item",
+      "example": "The supervisor discussed compliant item during the safety briefing.",
+      "exampleZh": "主管在安全交底期间讨论了符合项。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0140"
+    },
+    {
+      "term": "non-applicable item (N/A)",
+      "phonetic": "/ˌnɑːn əˈplɪkəbəl ˈaɪtəm/",
+      "meaning": "不适用项",
+      "category": "safety",
+      "usage": "exclude N/A items",
+      "example": "The supervisor discussed non-applicable item (N/A) during the safety briefing.",
+      "exampleZh": "主管在安全交底期间讨论了不适用项。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0141"
+    },
+    {
+      "term": "actual score",
+      "phonetic": "/ˈækʧəwəl skɔr/",
+      "meaning": "实际得分",
+      "category": "safety",
+      "usage": "sum of compliant-item scores",
+      "example": "The supervisor discussed actual score during the safety briefing.",
+      "exampleZh": "主管在安全交底期间讨论了实际得分。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0142"
+    },
+    {
+      "term": "applicable score",
+      "phonetic": "/ˈæpləkəbəl skɔr/",
+      "meaning": "应得分",
+      "category": "safety",
+      "usage": "sum of applicable-item scores",
+      "example": "The supervisor discussed applicable score during the safety briefing.",
+      "exampleZh": "主管在安全交底期间讨论了应得分。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0143"
+    },
+    {
+      "term": "environmental inspection",
+      "phonetic": "/ɪnˌvaɪrənˈmɛnəl ˌɪnˈspɛkʃən/",
+      "meaning": "环保检查",
+      "category": "safety",
+      "usage": "weekly environmental inspection",
+      "example": "The supervisor discussed environmental inspection during the safety briefing.",
+      "exampleZh": "主管在安全交底期间讨论了环保检查。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0144"
+    },
+    {
+      "term": "environmental housekeeping",
+      "phonetic": "/ɪnˌvaɪrənˈmɛnəl ˈhaʊˌskipɪŋ/",
+      "meaning": "环境秩序与现场整洁",
+      "category": "safety",
+      "usage": "improve site housekeeping",
+      "example": "The supervisor discussed environmental housekeeping during the safety briefing.",
+      "exampleZh": "主管在安全交底期间讨论了环境秩序与现场整洁。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0145"
+    },
+    {
+      "term": "road washing",
+      "phonetic": "/roʊd ˈwɑʃɪŋ/",
+      "meaning": "道路冲洗",
+      "category": "safety",
+      "usage": "arrange road washing",
+      "example": "The supervisor discussed road washing during the safety briefing.",
+      "exampleZh": "主管在安全交底期间讨论了道路冲洗。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0146"
+    },
+    {
+      "term": "incident investigation",
+      "phonetic": "/ˈɪnsədənt ˌɪnˌvɛstəˈgeɪʃən/",
+      "meaning": "事件调查",
+      "category": "safety",
+      "usage": "complete the incident investigation",
+      "example": "The supervisor discussed incident investigation during the safety briefing.",
+      "exampleZh": "主管在安全交底期间讨论了事件调查。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx",
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0147"
+    },
+    {
+      "term": "safety briefing",
+      "phonetic": "/ˈseɪfti ˈbrifɪŋ/",
+      "meaning": "安全交底；班前安全简报",
+      "category": "safety",
+      "usage": "pre-shift safety briefing",
+      "example": "The supervisor discussed safety briefing during the safety briefing.",
+      "exampleZh": "主管在安全交底期间讨论了安全交底；班前安全简报。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0148"
+    },
+    {
+      "term": "backfilling report",
+      "phonetic": "/ˈbækˌfɪlɪŋ rɪˈpɔrt/",
+      "meaning": "充填报告",
+      "category": "reporting",
+      "usage": "Monthly Backfilling Report",
+      "example": "The backfilling report was reviewed during the coordination meeting.",
+      "exampleZh": "协调会审阅了充填报告。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0149"
+    },
+    {
+      "term": "backfill material",
+      "phonetic": "/ˈbækˌfɪl məˈtɪriəl/",
+      "meaning": "充填材料",
+      "category": "reporting",
+      "usage": "backfill-material consumption",
+      "example": "The backfill material was reviewed during the coordination meeting.",
+      "exampleZh": "协调会审阅了充填材料。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0150"
+    },
+    {
+      "term": "mix proportion",
+      "phonetic": "/mɪks prəˈpɔrʃən/",
+      "meaning": "配合比",
+      "category": "reporting",
+      "usage": "backfill mix proportion",
+      "example": "The mix proportion was reviewed during the coordination meeting.",
+      "exampleZh": "协调会审阅了配合比。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0151"
+    },
+    {
+      "term": "material ratio",
+      "phonetic": "/məˈtɪriəl ˈreɪʃiˌoʊ/",
+      "meaning": "材料比例",
+      "category": "reporting",
+      "usage": "ratio of materials",
+      "example": "The material ratio was reviewed during the coordination meeting.",
+      "exampleZh": "协调会审阅了材料比例。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0152"
+    },
+    {
+      "term": "cement content",
+      "phonetic": "/sɪˈmɛnt ˈkɑntɛnt/",
+      "meaning": "水泥含量",
+      "category": "reporting",
+      "usage": "cement content in the mix",
+      "example": "The cement content was reviewed during the coordination meeting.",
+      "exampleZh": "协调会审阅了水泥含量。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0153"
+    },
+    {
+      "term": "slurry concentration",
+      "phonetic": "/sˈləri ˌkɑnsənˈtreɪʃən/",
+      "meaning": "料浆浓度",
+      "category": "reporting",
+      "usage": "backfill slurry concentration",
+      "example": "The slurry concentration was reviewed during the coordination meeting.",
+      "exampleZh": "协调会审阅了料浆浓度。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0154"
+    },
+    {
+      "term": "vehicle request",
+      "phonetic": "/ˈviɪkəl rɪkˈwɛst/",
+      "meaning": "用车申请",
+      "category": "reporting",
+      "usage": "daily vehicle request",
+      "example": "The vehicle request was reviewed during the coordination meeting.",
+      "exampleZh": "协调会审阅了用车申请。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0155"
+    },
+    {
+      "term": "dispatch",
+      "phonetic": "/dɪˈspæʧ/",
+      "meaning": "调度；派车",
+      "category": "reporting",
+      "usage": "vehicle dispatch",
+      "example": "The technician will dispatch the equipment before operation.",
+      "exampleZh": "技术员将在设备运行前进行调度；派车。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx",
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0156"
+    },
+    {
+      "term": "pickup location",
+      "phonetic": "/ˈpɪˌkəp loʊˈkeɪʃən/",
+      "meaning": "上车地点",
+      "category": "reporting",
+      "usage": "requested pickup location",
+      "example": "The pickup location was reviewed during the coordination meeting.",
+      "exampleZh": "协调会审阅了上车地点。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0157"
+    },
+    {
+      "term": "destination",
+      "phonetic": "/ˌdɛstɪˈneɪʃən/",
+      "meaning": "目的地",
+      "category": "reporting",
+      "usage": "travel destination",
+      "example": "The destination was reviewed during the coordination meeting.",
+      "exampleZh": "协调会审阅了目的地。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0158"
+    },
+    {
+      "term": "requesting department",
+      "phonetic": "/rɪkˈwɛstɪŋ dɪˈpɑrtmənt/",
+      "meaning": "申请部门",
+      "category": "reporting",
+      "usage": "requesting department",
+      "example": "The requesting department was reviewed during the coordination meeting.",
+      "exampleZh": "协调会审阅了申请部门。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0159"
+    },
+    {
+      "term": "daily equipment report",
+      "phonetic": "/ˈdeɪli ɪkˈwɪpmənt rɪˈpɔrt/",
+      "meaning": "设备日报",
+      "category": "reporting",
+      "usage": "Daily Equipment Performance Report",
+      "example": "The daily equipment report was reviewed during the coordination meeting.",
+      "exampleZh": "协调会审阅了设备日报。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0160"
+    },
+    {
+      "term": "monthly performance report",
+      "phonetic": "/ˈmənθli pərˈfɔrməns rɪˈpɔrt/",
+      "meaning": "月度绩效报告",
+      "category": "reporting",
+      "usage": "Monthly Equipment Performance Report",
+      "example": "The monthly performance report was reviewed during the coordination meeting.",
+      "exampleZh": "协调会审阅了月度绩效报告。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0161"
+    },
+    {
+      "term": "maintenance log",
+      "phonetic": "/ˈmeɪntənəns lɔg/",
+      "meaning": "维修记录",
+      "category": "reporting",
+      "usage": "daily maintenance log",
+      "example": "The maintenance log was reviewed during the coordination meeting.",
+      "exampleZh": "协调会审阅了维修记录。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0162"
+    },
+    {
+      "term": "fleet status",
+      "phonetic": "/flit ˈstætəs/",
+      "meaning": "车队/设备群状态",
+      "category": "reporting",
+      "usage": "underground fleet status",
+      "example": "The fleet status was reviewed during the coordination meeting.",
+      "exampleZh": "协调会审阅了车队/设备群状态。",
+      "note": "",
+      "sources": [
+        "微信文件英语词汇及专业表达参考.docx"
+      ],
+      "id": "w0163"
+    },
+    {
+      "term": "monthly report",
+      "phonetic": "/ˈmənθli rɪˈpɔrt/",
+      "meaning": "月报",
+      "category": "reporting",
+      "usage": "Mining Department Monthly Report",
+      "example": "The monthly report was reviewed during the coordination meeting.",
+      "exampleZh": "协调会审阅了月报。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0164"
+    },
+    {
+      "term": "daily production report",
+      "phonetic": "/ˈdeɪli pərˈdəkʃən rɪˈpɔrt/",
+      "meaning": "生产日报",
+      "category": "reporting",
+      "usage": "Daily Production Report",
+      "example": "The daily production report was reviewed during the coordination meeting.",
+      "exampleZh": "协调会审阅了生产日报。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0165"
+    },
+    {
+      "term": "monthly plan",
+      "phonetic": "/ˈmənθli plæn/",
+      "meaning": "月度计划",
+      "category": "reporting",
+      "usage": "according to the monthly plan",
+      "example": "The monthly plan was reviewed during the coordination meeting.",
+      "exampleZh": "协调会审阅了月度计划。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0166"
+    },
+    {
+      "term": "annual plan",
+      "phonetic": "/ˈænjuəl plæn/",
+      "meaning": "年度计划",
+      "category": "reporting",
+      "usage": "annual plan completion rate",
+      "example": "The annual plan was reviewed during the coordination meeting.",
+      "exampleZh": "协调会审阅了年度计划。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0167"
+    },
+    {
+      "term": "work plan",
+      "phonetic": "/wərk plæn/",
+      "meaning": "工作计划",
+      "category": "reporting",
+      "usage": "work plan for the coming month",
+      "example": "The work plan was reviewed during the coordination meeting.",
+      "exampleZh": "协调会审阅了工作计划。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0168"
+    },
+    {
+      "term": "key work item",
+      "phonetic": "/ki wərk ˈaɪtəm/",
+      "meaning": "重点工作事项",
+      "category": "reporting",
+      "usage": "progress on key work items",
+      "example": "The key work item was reviewed during the coordination meeting.",
+      "exampleZh": "协调会审阅了重点工作事项。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0169"
+    },
+    {
+      "term": "key production indicator",
+      "phonetic": "/ki pərˈdəkʃən ˈɪndəˌkeɪtər/",
+      "meaning": "关键生产指标",
+      "category": "reporting",
+      "usage": "key annual production indicators",
+      "example": "The key production indicator was reviewed during the coordination meeting.",
+      "exampleZh": "协调会审阅了关键生产指标。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0170"
+    },
+    {
+      "term": "production target",
+      "phonetic": "/pərˈdəkʃən ˈtərgət/",
+      "meaning": "生产目标",
+      "category": "reporting",
+      "usage": "achieve the production target",
+      "example": "The production target was reviewed during the coordination meeting.",
+      "exampleZh": "协调会审阅了生产目标。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx",
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0171"
+    },
+    {
+      "term": "planned quantity",
+      "phonetic": "/plænd kˈwɑntəti/",
+      "meaning": "计划量",
+      "category": "reporting",
+      "usage": "planned quantity vs. actual quantity",
+      "example": "The planned quantity was reviewed during the coordination meeting.",
+      "exampleZh": "协调会审阅了计划量。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0172"
+    },
+    {
+      "term": "actual quantity",
+      "phonetic": "/ˈækʧəwəl kˈwɑntəti/",
+      "meaning": "实际量",
+      "category": "reporting",
+      "usage": "actual quantity completed",
+      "example": "The actual quantity was reviewed during the coordination meeting.",
+      "exampleZh": "协调会审阅了实际量。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0173"
+    },
+    {
+      "term": "cumulative plan",
+      "phonetic": "/ˈkjumjələtɪv plæn/",
+      "meaning": "累计计划",
+      "category": "reporting",
+      "usage": "cumulative plan to date",
+      "example": "The cumulative plan was reviewed during the coordination meeting.",
+      "exampleZh": "协调会审阅了累计计划。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0174"
+    },
+    {
+      "term": "cumulative actual",
+      "phonetic": "/ˈkjumjələtɪv ˈækʧəwəl/",
+      "meaning": "累计实际",
+      "category": "reporting",
+      "usage": "cumulative actual to date",
+      "example": "The cumulative actual was reviewed during the coordination meeting.",
+      "exampleZh": "协调会审阅了累计实际。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0175"
+    },
+    {
+      "term": "completion rate",
+      "phonetic": "/kəmˈpliʃən reɪt/",
+      "meaning": "完成率",
+      "category": "reporting",
+      "usage": "monthly plan completion rate",
+      "example": "The completion rate was reviewed during the coordination meeting.",
+      "exampleZh": "协调会审阅了完成率。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0176"
+    },
+    {
+      "term": "progress",
+      "phonetic": "/ˈprɑˌgrɛs/",
+      "meaning": "进展；进度",
+      "category": "reporting",
+      "usage": "construction progress",
+      "example": "The progress was reviewed during the coordination meeting.",
+      "exampleZh": "协调会审阅了进展；进度。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0177"
+    },
+    {
+      "term": "schedule",
+      "phonetic": "/ˈskɛʤʊl/",
+      "meaning": "进度计划；工期",
+      "category": "reporting",
+      "usage": "behind schedule",
+      "example": "The schedule was reviewed during the coordination meeting.",
+      "exampleZh": "协调会审阅了进度计划；工期。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx",
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0178"
+    },
+    {
+      "term": "milestone",
+      "phonetic": "/ˈmaɪlˌstoʊn/",
+      "meaning": "里程碑节点",
+      "category": "reporting",
+      "usage": "key project milestone",
+      "example": "The milestone was reviewed during the coordination meeting.",
+      "exampleZh": "协调会审阅了里程碑节点。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0179"
+    },
+    {
+      "term": "ahead of schedule",
+      "phonetic": "/əˈhɛd əv ˈskɛʤʊl/",
+      "meaning": "提前于计划",
+      "category": "reporting",
+      "usage": "completed ahead of schedule",
+      "example": "The ahead of schedule was reviewed during the coordination meeting.",
+      "exampleZh": "协调会审阅了提前于计划。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx",
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0180"
+    },
+    {
+      "term": "behind schedule",
+      "phonetic": "/bɪˈhaɪnd ˈskɛʤʊl/",
+      "meaning": "落后于计划",
+      "category": "reporting",
+      "usage": "two weeks behind schedule",
+      "example": "The behind schedule was reviewed during the coordination meeting.",
+      "exampleZh": "协调会审阅了落后于计划。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx",
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0181"
+    },
+    {
+      "term": "on schedule",
+      "phonetic": "/ɔn ˈskɛʤʊl/",
+      "meaning": "按计划进行",
+      "category": "reporting",
+      "usage": "the work is on schedule",
+      "example": "The on schedule was reviewed during the coordination meeting.",
+      "exampleZh": "协调会审阅了按计划进行。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx",
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0182"
+    },
+    {
+      "term": "remaining work",
+      "phonetic": "/rɪˈmeɪnɪŋ wərk/",
+      "meaning": "剩余工作",
+      "category": "reporting",
+      "usage": "complete the remaining work",
+      "example": "The remaining work was reviewed during the coordination meeting.",
+      "exampleZh": "协调会审阅了剩余工作。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0183"
+    },
+    {
+      "term": "variance",
+      "phonetic": "/ˈvɛriəns/",
+      "meaning": "偏差",
+      "category": "reporting",
+      "usage": "variance from the monthly plan",
+      "example": "The variance was reviewed during the coordination meeting.",
+      "exampleZh": "协调会审阅了偏差。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0184"
+    },
+    {
+      "term": "follow-up action",
+      "phonetic": "/ˈfɑloʊ əp ˈækʃən/",
+      "meaning": "后续行动",
+      "category": "reporting",
+      "usage": "required follow-up actions",
+      "example": "The follow-up action was reviewed during the coordination meeting.",
+      "exampleZh": "协调会审阅了后续行动。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0185"
+    },
+    {
+      "term": "status",
+      "phonetic": "/ˈstætəs/",
+      "meaning": "状态；完成情况",
+      "category": "reporting",
+      "usage": "status of key production targets",
+      "example": "The status was reviewed during the coordination meeting.",
+      "exampleZh": "协调会审阅了状态；完成情况。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0186"
+    },
+    {
+      "term": "summary",
+      "phonetic": "/ˈsəməri/",
+      "meaning": "总结；汇总",
+      "category": "reporting",
+      "usage": "monthly performance summary",
+      "example": "The summary was reviewed during the coordination meeting.",
+      "exampleZh": "协调会审阅了总结；汇总。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx",
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0187"
+    },
+    {
+      "term": "remarks",
+      "phonetic": "/rɪˈmɑrks/",
+      "meaning": "备注",
+      "category": "reporting",
+      "usage": "remarks column",
+      "example": "The remarks was reviewed during the coordination meeting.",
+      "exampleZh": "协调会审阅了备注。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0188"
+    },
+    {
+      "term": "forecast",
+      "phonetic": "/ˈfɔrˌkæst/",
+      "meaning": "预测",
+      "category": "reporting",
+      "usage": "forecast for next month",
+      "example": "The forecast was reviewed during the coordination meeting.",
+      "exampleZh": "协调会审阅了预测。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0189"
+    },
+    {
+      "term": "deadline",
+      "phonetic": "/ˈdɛˌdlaɪn/",
+      "meaning": "截止日期",
+      "category": "reporting",
+      "usage": "meet the deadline",
+      "example": "The deadline was reviewed during the coordination meeting.",
+      "exampleZh": "协调会审阅了截止日期。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx",
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0190"
+    },
+    {
+      "term": "responsible person",
+      "phonetic": "/riˈspɑnsəbəl ˈpərsən/",
+      "meaning": "责任人",
+      "category": "reporting",
+      "usage": "assign a responsible person",
+      "example": "The responsible person was reviewed during the coordination meeting.",
+      "exampleZh": "协调会审阅了责任人。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0191"
+    },
+    {
+      "term": "work progress",
+      "phonetic": "/wərk ˈprɑˌgrɛs/",
+      "meaning": "工作进展",
+      "category": "reporting",
+      "usage": "main work progress",
+      "example": "The work progress was reviewed during the coordination meeting.",
+      "exampleZh": "协调会审阅了工作进展。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0192"
+    },
+    {
+      "term": "underground mine",
+      "phonetic": "/ˈəndərˌgraʊnd maɪn/",
+      "meaning": "地下矿山",
+      "category": "mining",
+      "usage": "underground mining operation",
+      "example": "The team inspected the underground mine during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了地下矿山。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0193"
+    },
+    {
+      "term": "level",
+      "phonetic": "/ˈlɛvəl/",
+      "meaning": "中段；水平",
+      "category": "mining",
+      "usage": "the -260 m level",
+      "example": "The team inspected the level during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了中段；水平。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx",
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0194"
+    },
+    {
+      "term": "sublevel",
+      "phonetic": "/ˈsʌbˌlɛvəl/",
+      "meaning": "分段",
+      "category": "mining",
+      "usage": "the -220 m sublevel",
+      "example": "The team inspected the sublevel during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了分段。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0195"
+    },
+    {
+      "term": "stope",
+      "phonetic": "/stoʊp/",
+      "meaning": "采场；矿房",
+      "category": "mining",
+      "usage": "stope production",
+      "example": "The team inspected the stope during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了采场；矿房。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx",
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0196"
+    },
+    {
+      "term": "drift / drive",
+      "phonetic": "/drɪft ər draɪv/",
+      "meaning": "巷道；平巷",
+      "category": "mining",
+      "usage": "development drift",
+      "example": "The team inspected the drift / drive during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了巷道；平巷。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0197"
+    },
+    {
+      "term": "development drift",
+      "phonetic": "/dɪˈvɛləpmənt drɪft/",
+      "meaning": "开拓巷道",
+      "category": "mining",
+      "usage": "advance the development drift",
+      "example": "The team inspected the development drift during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了开拓巷道。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0198"
+    },
+    {
+      "term": "access drift",
+      "phonetic": "/ˈækˌsɛs drɪft/",
+      "meaning": "进路；通达巷",
+      "category": "mining",
+      "usage": "stope access drift",
+      "example": "The team inspected the access drift during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了进路；通达巷。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0199"
+    },
+    {
+      "term": "haulage drift",
+      "phonetic": "/ˈhɔːlɪdʒ drɪft/",
+      "meaning": "运输巷",
+      "category": "mining",
+      "usage": "main haulage drift",
+      "example": "The team inspected the haulage drift during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了运输巷。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0200"
+    },
+    {
+      "term": "footwall drive",
+      "phonetic": "/ˈfʊtˌwɔl draɪv/",
+      "meaning": "下盘脉外巷",
+      "category": "mining",
+      "usage": "footwall drive at the -260 m level",
+      "example": "The team inspected the footwall drive during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了下盘脉外巷。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0201"
+    },
+    {
+      "term": "crosscut",
+      "phonetic": "/ˈkrɔːsˌkʌt/",
+      "meaning": "穿脉巷；石门",
+      "category": "mining",
+      "usage": "ventilation crosscut",
+      "example": "The team inspected the crosscut during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了穿脉巷；石门。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx",
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0202"
+    },
+    {
+      "term": "connection drift",
+      "phonetic": "/kəˈnɛkʃən drɪft/",
+      "meaning": "联络巷",
+      "category": "mining",
+      "usage": "ramp connection drift",
+      "example": "The team inspected the connection drift during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了联络巷。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0203"
+    },
+    {
+      "term": "ramp / decline",
+      "phonetic": "/ræmp ər dɪˈklaɪn/",
+      "meaning": "斜坡道；斜井",
+      "category": "mining",
+      "usage": "main decline",
+      "example": "The team inspected the ramp / decline during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了斜坡道；斜井。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0204"
+    },
+    {
+      "term": "auxiliary ramp",
+      "phonetic": "/ɑgˈzɪljəri ræmp/",
+      "meaning": "辅助斜坡道",
+      "category": "mining",
+      "usage": "auxiliary ramp development",
+      "example": "The team inspected the auxiliary ramp during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了辅助斜坡道。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0205"
+    },
+    {
+      "term": "shaft",
+      "phonetic": "/ʃæft/",
+      "meaning": "竖井；井筒",
+      "category": "mining",
+      "usage": "main shaft",
+      "example": "The team inspected the shaft during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了竖井；井筒。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx",
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0206"
+    },
+    {
+      "term": "ventilation shaft",
+      "phonetic": "/ˌvɛntɪˈleɪʃən ʃæft/",
+      "meaning": "通风井",
+      "category": "mining",
+      "usage": "ventilation shaft breakthrough",
+      "example": "The team inspected the ventilation shaft during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了通风井。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0207"
+    },
+    {
+      "term": "intake shaft",
+      "phonetic": "/ˈɪnˌteɪk ʃæft/",
+      "meaning": "进风井",
+      "category": "mining",
+      "usage": "inverted intake shaft",
+      "example": "The team inspected the intake shaft during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了进风井。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0208"
+    },
+    {
+      "term": "return-air shaft",
+      "phonetic": "/rɪˈtərn ɛr ʃæft/",
+      "meaning": "回风井",
+      "category": "mining",
+      "usage": "return-air shaft",
+      "example": "The team inspected the return-air shaft during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了回风井。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0209"
+    },
+    {
+      "term": "raise",
+      "phonetic": "/reɪz/",
+      "meaning": "天井；上山",
+      "category": "mining",
+      "usage": "ventilation raise",
+      "example": "The team inspected the raise during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了天井；上山。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx",
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0210"
+    },
+    {
+      "term": "ore pass",
+      "phonetic": "/ɔr pæs/",
+      "meaning": "矿石溜井",
+      "category": "mining",
+      "usage": "ore-pass system",
+      "example": "The team inspected the ore pass during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了矿石溜井。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx",
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0211"
+    },
+    {
+      "term": "waste pass",
+      "phonetic": "/weɪst pæs/",
+      "meaning": "废石溜井",
+      "category": "mining",
+      "usage": "waste-pass system",
+      "example": "The team inspected the waste pass during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了废石溜井。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0212"
+    },
+    {
+      "term": "crushing station",
+      "phonetic": "/ˈkrəʃɪŋ ˈsteɪʃən/",
+      "meaning": "破碎站；破碎硐室",
+      "category": "mining",
+      "usage": "underground crushing station",
+      "example": "The team inspected the crushing station during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了破碎站；破碎硐室。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0213"
+    },
+    {
+      "term": "chamber",
+      "phonetic": "/ˈʧeɪmbər/",
+      "meaning": "硐室",
+      "category": "mining",
+      "usage": "electrical chamber",
+      "example": "The team inspected the chamber during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了硐室。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0214"
+    },
+    {
+      "term": "pump station",
+      "phonetic": "/pəmp ˈsteɪʃən/",
+      "meaning": "泵房",
+      "category": "mining",
+      "usage": "underground pump station",
+      "example": "The team inspected the pump station during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了泵房。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx",
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0215"
+    },
+    {
+      "term": "sump",
+      "phonetic": "/səmp/",
+      "meaning": "水仓",
+      "category": "mining",
+      "usage": "sump excavation",
+      "example": "The team inspected the sump during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了水仓。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0216"
+    },
+    {
+      "term": "belt conveyor decline",
+      "phonetic": "/bɛlt kənˈveɪər dɪˈklaɪn/",
+      "meaning": "胶带斜井",
+      "category": "mining",
+      "usage": "belt conveyor decline",
+      "example": "The team inspected the belt conveyor decline during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了胶带斜井。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0217"
+    },
+    {
+      "term": "drawpoint",
+      "phonetic": "/ˈdrɔːˌpɔɪnt/",
+      "meaning": "出矿点",
+      "category": "mining",
+      "usage": "drawpoint development",
+      "example": "The team inspected the drawpoint during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了出矿点。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx",
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0218"
+    },
+    {
+      "term": "undercut drive",
+      "phonetic": "/ˈəndərˌkət draɪv/",
+      "meaning": "拉底巷",
+      "category": "mining",
+      "usage": "undercut drive at the -260 m level",
+      "example": "The team inspected the undercut drive during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了拉底巷。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0219"
+    },
+    {
+      "term": "slot raise",
+      "phonetic": "/slɑt reɪz/",
+      "meaning": "切割井；拉槽天井",
+      "category": "mining",
+      "usage": "slot raise construction",
+      "example": "The team inspected the slot raise during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了切割井；拉槽天井。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0220"
+    },
+    {
+      "term": "development",
+      "phonetic": "/dɪˈvɛləpmənt/",
+      "meaning": "开拓掘进",
+      "category": "mining",
+      "usage": "development advance",
+      "example": "The team inspected the development during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了开拓掘进。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx",
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0221"
+    },
+    {
+      "term": "stope preparation",
+      "phonetic": "/stoʊp ˌprɛpərˈeɪʃən/",
+      "meaning": "采准工程",
+      "category": "mining",
+      "usage": "stope preparation work",
+      "example": "The team inspected the stope preparation during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了采准工程。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0222"
+    },
+    {
+      "term": "production mining",
+      "phonetic": "/pərˈdəkʃən ˈmaɪnɪŋ/",
+      "meaning": "采矿作业",
+      "category": "mining",
+      "usage": "production mining activities",
+      "example": "The team inspected the production mining during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了采矿作业。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0223"
+    },
+    {
+      "term": "excavation",
+      "phonetic": "/ˌɛkskəˈveɪʃən/",
+      "meaning": "掘进；开挖",
+      "category": "mining",
+      "usage": "excavation volume",
+      "example": "The team inspected the excavation during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了掘进；开挖。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx",
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0224"
+    },
+    {
+      "term": "advance",
+      "phonetic": "/ədˈvæns/",
+      "meaning": "进尺；推进",
+      "category": "mining",
+      "usage": "total excavation advance",
+      "example": "The team inspected the advance during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了进尺；推进。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx",
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0225"
+    },
+    {
+      "term": "heading",
+      "phonetic": "/ˈhɛdɪŋ/",
+      "meaning": "掘进工作面",
+      "category": "mining",
+      "usage": "development heading",
+      "example": "The team inspected the heading during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了掘进工作面。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx",
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0226"
+    },
+    {
+      "term": "working face",
+      "phonetic": "/ˈwərkɪŋ feɪs/",
+      "meaning": "工作面",
+      "category": "mining",
+      "usage": "conditions at the working face",
+      "example": "The team inspected the working face during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了工作面。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0227"
+    },
+    {
+      "term": "breakthrough / holing",
+      "phonetic": "/ˈbreɪkθˌru ər ˈhoʊlɪŋ/",
+      "meaning": "贯通",
+      "category": "mining",
+      "usage": "shaft breakthrough",
+      "example": "The team inspected the breakthrough / holing during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了贯通。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0228"
+    },
+    {
+      "term": "mining method",
+      "phonetic": "/ˈmaɪnɪŋ ˈmɛθəd/",
+      "meaning": "采矿方法",
+      "category": "mining",
+      "usage": "proposed mining method",
+      "example": "The team inspected the mining method during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了采矿方法。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0229"
+    },
+    {
+      "term": "orebody",
+      "phonetic": "/ˈɔːrˌbɑːdi/",
+      "meaning": "矿体",
+      "category": "mining",
+      "usage": "upper-zone orebody",
+      "example": "The team inspected the orebody during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了矿体。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0230"
+    },
+    {
+      "term": "vein",
+      "phonetic": "/veɪn/",
+      "meaning": "矿脉",
+      "category": "mining",
+      "usage": "east vein",
+      "example": "The team inspected the vein during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了矿脉。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0231"
+    },
+    {
+      "term": "footwall",
+      "phonetic": "/ˈfʊtˌwɔl/",
+      "meaning": "下盘",
+      "category": "mining",
+      "usage": "footwall access",
+      "example": "The team inspected the footwall during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了下盘。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0232"
+    },
+    {
+      "term": "ore",
+      "phonetic": "/ɔr/",
+      "meaning": "矿石",
+      "category": "processing",
+      "usage": "ore production",
+      "example": "The monthly report includes data on ore.",
+      "exampleZh": "月报中包含矿石的数据。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx",
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0233"
+    },
+    {
+      "term": "waste rock",
+      "phonetic": "/weɪst rɑk/",
+      "meaning": "废石",
+      "category": "processing",
+      "usage": "waste-rock tonnage",
+      "example": "The monthly report includes data on waste rock.",
+      "exampleZh": "月报中包含废石的数据。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0234"
+    },
+    {
+      "term": "high-grade ore",
+      "phonetic": "/haɪ greɪd ɔr/",
+      "meaning": "高品位矿石",
+      "category": "processing",
+      "usage": "high-grade ore stockpile",
+      "example": "The monthly report includes data on high-grade ore.",
+      "exampleZh": "月报中包含高品位矿石的数据。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0235"
+    },
+    {
+      "term": "low-grade ore",
+      "phonetic": "/loʊ greɪd ɔr/",
+      "meaning": "低品位矿石",
+      "category": "processing",
+      "usage": "low-grade ore production",
+      "example": "The monthly report includes data on low-grade ore.",
+      "exampleZh": "月报中包含低品位矿石的数据。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0236"
+    },
+    {
+      "term": "by-product ore",
+      "phonetic": "/baɪ ˈprɑdəkt ɔr/",
+      "meaning": "副产矿",
+      "category": "processing",
+      "usage": "by-product ore tonnage",
+      "example": "The monthly report includes data on by-product ore.",
+      "exampleZh": "月报中包含副产矿的数据。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0237"
+    },
+    {
+      "term": "ore tonnage",
+      "phonetic": "/ɔr ˈtənɪʤ/",
+      "meaning": "矿石吨数",
+      "category": "processing",
+      "usage": "monthly ore tonnage",
+      "example": "The monthly report includes data on ore tonnage.",
+      "exampleZh": "月报中包含矿石吨数的数据。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0238"
+    },
+    {
+      "term": "waste tonnage",
+      "phonetic": "/weɪst ˈtənɪʤ/",
+      "meaning": "废石吨数",
+      "category": "processing",
+      "usage": "total waste tonnage",
+      "example": "The monthly report includes data on waste tonnage.",
+      "exampleZh": "月报中包含废石吨数的数据。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0239"
+    },
+    {
+      "term": "total mining volume",
+      "phonetic": "/ˈtoʊtəl ˈmaɪnɪŋ ˈvɑljum/",
+      "meaning": "采剥/采掘总量",
+      "category": "processing",
+      "usage": "total ore and waste mined",
+      "example": "The monthly report includes data on total mining volume.",
+      "exampleZh": "月报中包含采剥/采掘总量的数据。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0240"
+    },
+    {
+      "term": "dry ore",
+      "phonetic": "/draɪ ɔr/",
+      "meaning": "干矿",
+      "category": "processing",
+      "usage": "dry ore tonnage",
+      "example": "The monthly report includes data on dry ore.",
+      "exampleZh": "月报中包含干矿的数据。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0241"
+    },
+    {
+      "term": "wet ore",
+      "phonetic": "/wɛt ɔr/",
+      "meaning": "湿矿",
+      "category": "processing",
+      "usage": "wet ore dispatched",
+      "example": "The monthly report includes data on wet ore.",
+      "exampleZh": "月报中包含湿矿的数据。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0242"
+    },
+    {
+      "term": "ore feed",
+      "phonetic": "/ɔr fid/",
+      "meaning": "给矿；入选原矿",
+      "category": "processing",
+      "usage": "ore feed to the plant",
+      "example": "The monthly report includes data on ore feed.",
+      "exampleZh": "月报中包含给矿；入选原矿的数据。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0243"
+    },
+    {
+      "term": "throughput",
+      "phonetic": "/θˈruˌpʊt/",
+      "meaning": "处理量",
+      "category": "processing",
+      "usage": "plant throughput",
+      "example": "The monthly report includes data on throughput.",
+      "exampleZh": "月报中包含处理量的数据。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx",
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0244"
+    },
+    {
+      "term": "copper concentrate",
+      "phonetic": "/ˈkɑpər ˈkɑnsənˌtreɪt/",
+      "meaning": "铜精矿",
+      "category": "processing",
+      "usage": "copper concentrate production",
+      "example": "The monthly report includes data on copper concentrate.",
+      "exampleZh": "月报中包含铜精矿的数据。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0245"
+    },
+    {
+      "term": "flotation",
+      "phonetic": "/floʊˈteɪʃən/",
+      "meaning": "浮选",
+      "category": "processing",
+      "usage": "flotation circuit",
+      "example": "The monthly report includes data on flotation.",
+      "exampleZh": "月报中包含浮选的数据。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0246"
+    },
+    {
+      "term": "copper–sulfur separation flotation",
+      "phonetic": "/ˈkɑpər ˈsəlfər ˌsɛpərˈeɪʃən floʊˈteɪʃən/",
+      "meaning": "铜硫分离浮选",
+      "category": "processing",
+      "usage": "separation flotation stage",
+      "example": "The monthly report includes data on copper–sulfur separation flotation.",
+      "exampleZh": "月报中包含铜硫分离浮选的数据。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0247"
+    },
+    {
+      "term": "grinding",
+      "phonetic": "/ˈgraɪndɪŋ/",
+      "meaning": "磨矿",
+      "category": "processing",
+      "usage": "ore feed to grinding",
+      "example": "The monthly report includes data on grinding.",
+      "exampleZh": "月报中包含磨矿的数据。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0248"
+    },
+    {
+      "term": "SAG mill",
+      "phonetic": "/sæg mɪl/",
+      "meaning": "半自磨机",
+      "category": "processing",
+      "usage": "SAG mill throughput",
+      "example": "The monthly report includes data on SAG mill.",
+      "exampleZh": "月报中包含半自磨机的数据。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0249"
+    },
+    {
+      "term": "recovery rate",
+      "phonetic": "/rɪˈkəvəri reɪt/",
+      "meaning": "回收率",
+      "category": "processing",
+      "usage": "copper recovery rate",
+      "example": "The monthly report includes data on recovery rate.",
+      "exampleZh": "月报中包含回收率的数据。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx",
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0250"
+    },
+    {
+      "term": "ore grade",
+      "phonetic": "/ɔr greɪd/",
+      "meaning": "矿石品位",
+      "category": "processing",
+      "usage": "average ore grade",
+      "example": "The monthly report includes data on ore grade.",
+      "exampleZh": "月报中包含矿石品位的数据。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0251"
+    },
+    {
+      "term": "copper grade",
+      "phonetic": "/ˈkɑpər greɪd/",
+      "meaning": "铜品位",
+      "category": "processing",
+      "usage": "Cu grade (%)",
+      "example": "The monthly report includes data on copper grade.",
+      "exampleZh": "月报中包含铜品位的数据。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0252"
+    },
+    {
+      "term": "gold grade",
+      "phonetic": "/goʊld greɪd/",
+      "meaning": "金品位",
+      "category": "processing",
+      "usage": "Au grade (g/t)",
+      "example": "The monthly report includes data on gold grade.",
+      "exampleZh": "月报中包含金品位的数据。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0253"
+    },
+    {
+      "term": "arsenic content",
+      "phonetic": "/ˈɑrsənɪk ˈkɑntɛnt/",
+      "meaning": "砷含量",
+      "category": "processing",
+      "usage": "As content (%)",
+      "example": "The monthly report includes data on arsenic content.",
+      "exampleZh": "月报中包含砷含量的数据。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0254"
+    },
+    {
+      "term": "sulfur content",
+      "phonetic": "/ˈsəlfər ˈkɑntɛnt/",
+      "meaning": "硫含量",
+      "category": "processing",
+      "usage": "S content (%)",
+      "example": "The monthly report includes data on sulfur content.",
+      "exampleZh": "月报中包含硫含量的数据。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0255"
+    },
+    {
+      "term": "metal content",
+      "phonetic": "/ˈmɛtəl ˈkɑntɛnt/",
+      "meaning": "金属量",
+      "category": "processing",
+      "usage": "contained copper metal",
+      "example": "The monthly report includes data on metal content.",
+      "exampleZh": "月报中包含金属量的数据。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0256"
+    },
+    {
+      "term": "tailings",
+      "phonetic": "/ˈteɪlɪŋz/",
+      "meaning": "尾矿",
+      "category": "processing",
+      "usage": "tailings storage facility",
+      "example": "The monthly report includes data on tailings.",
+      "exampleZh": "月报中包含尾矿的数据。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx",
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0257"
+    },
+    {
+      "term": "backfill",
+      "phonetic": "/ˈbækˌfɪl/",
+      "meaning": "充填料；充填体",
+      "category": "processing",
+      "usage": "cemented backfill",
+      "example": "The monthly report includes data on backfill.",
+      "exampleZh": "月报中包含充填料；充填体的数据。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0258"
+    },
+    {
+      "term": "backfilling",
+      "phonetic": "/ˈbækˌfɪlɪŋ/",
+      "meaning": "充填作业",
+      "category": "processing",
+      "usage": "backfilling plan",
+      "example": "The monthly report includes data on backfilling.",
+      "exampleZh": "月报中包含充填作业的数据。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx",
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0259"
+    },
+    {
+      "term": "production output",
+      "phonetic": "/pərˈdəkʃən ˈaʊtˌpʊt/",
+      "meaning": "生产产量",
+      "category": "processing",
+      "usage": "monthly production output",
+      "example": "The monthly report includes data on production output.",
+      "exampleZh": "月报中包含生产产量的数据。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0260"
+    },
+    {
+      "term": "stockpile",
+      "phonetic": "/ˈstɑkˌpaɪl/",
+      "meaning": "矿堆；堆场库存",
+      "category": "processing",
+      "usage": "low-grade ore stockpile",
+      "example": "The monthly report includes data on stockpile.",
+      "exampleZh": "月报中包含矿堆；堆场库存的数据。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx",
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0261"
+    },
+    {
+      "term": "dispatched ore",
+      "phonetic": "/dɪˈspæʧt ɔr/",
+      "meaning": "外运矿石",
+      "category": "processing",
+      "usage": "wet ore dispatched",
+      "example": "The monthly report includes data on dispatched ore.",
+      "exampleZh": "月报中包含外运矿石的数据。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0262"
+    },
+    {
+      "term": "ground support",
+      "phonetic": "/graʊnd səˈpɔrt/",
+      "meaning": "巷道支护",
+      "category": "safety",
+      "usage": "ground-support requirements",
+      "example": "The supervisor discussed ground support during the safety briefing.",
+      "exampleZh": "主管在安全交底期间讨论了巷道支护。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0263"
+    },
+    {
+      "term": "rock bolt",
+      "phonetic": "/rɑk boʊlt/",
+      "meaning": "锚杆",
+      "category": "safety",
+      "usage": "rock-bolt installation",
+      "example": "The supervisor discussed rock bolt during the safety briefing.",
+      "exampleZh": "主管在安全交底期间讨论了锚杆。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0264"
+    },
+    {
+      "term": "cable bolt",
+      "phonetic": "/ˈkeɪbəl boʊlt/",
+      "meaning": "锚索",
+      "category": "safety",
+      "usage": "cable-bolt support",
+      "example": "The supervisor discussed cable bolt during the safety briefing.",
+      "exampleZh": "主管在安全交底期间讨论了锚索。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0265"
+    },
+    {
+      "term": "shotcrete",
+      "phonetic": "/ˈʃɑːtkriːt/",
+      "meaning": "喷射混凝土",
+      "category": "safety",
+      "usage": "fibre-reinforced shotcrete",
+      "example": "The supervisor discussed shotcrete during the safety briefing.",
+      "exampleZh": "主管在安全交底期间讨论了喷射混凝土。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0266"
+    },
+    {
+      "term": "wire mesh",
+      "phonetic": "/waɪər mɛʃ/",
+      "meaning": "钢筋网；金属网",
+      "category": "safety",
+      "usage": "welded wire mesh",
+      "example": "The supervisor discussed wire mesh during the safety briefing.",
+      "exampleZh": "主管在安全交底期间讨论了钢筋网；金属网。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0267"
+    },
+    {
+      "term": "steel arch",
+      "phonetic": "/stil ɑrʧ/",
+      "meaning": "钢拱架",
+      "category": "safety",
+      "usage": "steel-arch support",
+      "example": "The supervisor discussed steel arch during the safety briefing.",
+      "exampleZh": "主管在安全交底期间讨论了钢拱架。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0268"
+    },
+    {
+      "term": "support volume",
+      "phonetic": "/səˈpɔrt ˈvɑljum/",
+      "meaning": "支护工程量",
+      "category": "safety",
+      "usage": "monthly support volume",
+      "example": "The supervisor discussed support volume during the safety briefing.",
+      "exampleZh": "主管在安全交底期间讨论了支护工程量。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0269"
+    },
+    {
+      "term": "drilling and blasting",
+      "phonetic": "/ˈdrɪlɪŋ ənd ˈblæstɪŋ/",
+      "meaning": "钻爆作业",
+      "category": "safety",
+      "usage": "drilling-and-blasting cycle",
+      "example": "The supervisor discussed drilling and blasting during the safety briefing.",
+      "exampleZh": "主管在安全交底期间讨论了钻爆作业。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0270"
+    },
+    {
+      "term": "raise-boring machine",
+      "phonetic": "/reɪz ˈbɔrɪŋ məˈʃin/",
+      "meaning": "反井钻机",
+      "category": "safety",
+      "usage": "raise-boring machine setup",
+      "example": "The supervisor discussed raise-boring machine during the safety briefing.",
+      "exampleZh": "主管在安全交底期间讨论了反井钻机。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0271"
+    },
+    {
+      "term": "reaming",
+      "phonetic": "/ˈriːmɪŋ/",
+      "meaning": "扩孔",
+      "category": "safety",
+      "usage": "commence reaming",
+      "example": "The supervisor discussed reaming during the safety briefing.",
+      "exampleZh": "主管在安全交底期间讨论了扩孔。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0272"
+    },
+    {
+      "term": "safety inspection",
+      "phonetic": "/ˈseɪfti ˌɪnˈspɛkʃən/",
+      "meaning": "安全检查",
+      "category": "safety",
+      "usage": "conduct a safety inspection",
+      "example": "The supervisor discussed safety inspection during the safety briefing.",
+      "exampleZh": "主管在安全交底期间讨论了安全检查。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx",
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0273"
+    },
+    {
+      "term": "risk",
+      "phonetic": "/rɪsk/",
+      "meaning": "风险",
+      "category": "safety",
+      "usage": "fatal-risk control",
+      "example": "The supervisor discussed risk during the safety briefing.",
+      "exampleZh": "主管在安全交底期间讨论了风险。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0274"
+    },
+    {
+      "term": "incident",
+      "phonetic": "/ˈɪnsədənt/",
+      "meaning": "事件；未遂或一般事故",
+      "category": "safety",
+      "usage": "incident investigation",
+      "example": "The supervisor discussed incident during the safety briefing.",
+      "exampleZh": "主管在安全交底期间讨论了事件；未遂或一般事故。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx",
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0275"
+    },
+    {
+      "term": "accident",
+      "phonetic": "/ˈæksədənt/",
+      "meaning": "事故",
+      "category": "safety",
+      "usage": "accident report",
+      "example": "The supervisor discussed accident during the safety briefing.",
+      "exampleZh": "主管在安全交底期间讨论了事故。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx",
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0276"
+    },
+    {
+      "term": "corrective measure",
+      "phonetic": "/kərˈɛktɪv ˈmɛʒər/",
+      "meaning": "整改/纠正措施",
+      "category": "safety",
+      "usage": "proposed corrective measures",
+      "example": "The supervisor discussed corrective measure during the safety briefing.",
+      "exampleZh": "主管在安全交底期间讨论了整改/纠正措施。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx",
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0277"
+    },
+    {
+      "term": "preventive action",
+      "phonetic": "/prɪˈvɛnɪv ˈækʃən/",
+      "meaning": "预防措施",
+      "category": "safety",
+      "usage": "preventive action plan",
+      "example": "The supervisor discussed preventive action during the safety briefing.",
+      "exampleZh": "主管在安全交底期间讨论了预防措施。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0278"
+    },
+    {
+      "term": "quality issue",
+      "phonetic": "/kˈwɑləti ˈɪʃu/",
+      "meaning": "质量问题",
+      "category": "safety",
+      "usage": "construction quality issue",
+      "example": "The supervisor discussed quality issue during the safety briefing.",
+      "exampleZh": "主管在安全交底期间讨论了质量问题。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0279"
+    },
+    {
+      "term": "nonconformance",
+      "phonetic": "/ˌnɑːnkənˈfɔːrməns/",
+      "meaning": "不符合项",
+      "category": "safety",
+      "usage": "close out the nonconformance",
+      "example": "The supervisor discussed nonconformance during the safety briefing.",
+      "exampleZh": "主管在安全交底期间讨论了不符合项。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0280"
+    },
+    {
+      "term": "maintenance",
+      "phonetic": "/ˈmeɪntənəns/",
+      "meaning": "维护；检修",
+      "category": "safety",
+      "usage": "equipment maintenance plan",
+      "example": "The supervisor discussed maintenance during the safety briefing.",
+      "exampleZh": "主管在安全交底期间讨论了维护；检修。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx",
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0281"
+    },
+    {
+      "term": "training",
+      "phonetic": "/ˈtreɪnɪŋ/",
+      "meaning": "培训",
+      "category": "safety",
+      "usage": "safety training",
+      "example": "The supervisor discussed training during the safety briefing.",
+      "exampleZh": "主管在安全交底期间讨论了培训。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0282"
+    },
+    {
+      "term": "personal protective equipment (PPE)",
+      "phonetic": "/ˈpɜːrsənəl prəˈtɛktɪv ɪˈkwɪpmənt/",
+      "meaning": "个人防护用品",
+      "category": "safety",
+      "usage": "wear the required PPE",
+      "example": "The supervisor discussed personal protective equipment (PPE) during the safety briefing.",
+      "exampleZh": "主管在安全交底期间讨论了个人防护用品。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx",
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0283"
+    },
+    {
+      "term": "permit to work",
+      "phonetic": "/ˈpərˌmɪt tɪ wərk/",
+      "meaning": "作业许可证",
+      "category": "safety",
+      "usage": "valid permit to work",
+      "example": "The supervisor discussed permit to work during the safety briefing.",
+      "exampleZh": "主管在安全交底期间讨论了作业许可证。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0284"
+    },
+    {
+      "term": "housekeeping",
+      "phonetic": "/ˈhaʊˌskipɪŋ/",
+      "meaning": "现场文明与清理",
+      "category": "safety",
+      "usage": "improve workplace housekeeping",
+      "example": "The supervisor discussed housekeeping during the safety briefing.",
+      "exampleZh": "主管在安全交底期间讨论了现场文明与清理。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0285"
+    },
+    {
+      "term": "inspection record",
+      "phonetic": "/ˌɪnˈspɛkʃən ˈrɛkərd/",
+      "meaning": "检查记录",
+      "category": "safety",
+      "usage": "retain the inspection record",
+      "example": "The supervisor discussed inspection record during the safety briefing.",
+      "exampleZh": "主管在安全交底期间讨论了检查记录。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0286"
+    },
+    {
+      "term": "acceptance inspection",
+      "phonetic": "/əkˈsɛptəns ˌɪnˈspɛkʃən/",
+      "meaning": "验收检查",
+      "category": "safety",
+      "usage": "final acceptance inspection",
+      "example": "The supervisor discussed acceptance inspection during the safety briefing.",
+      "exampleZh": "主管在安全交底期间讨论了验收检查。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0287"
+    },
+    {
+      "term": "remedial work",
+      "phonetic": "/rɪˈmidiəl wərk/",
+      "meaning": "整改/返修工作",
+      "category": "safety",
+      "usage": "complete the remedial work",
+      "example": "The supervisor discussed remedial work during the safety briefing.",
+      "exampleZh": "主管在安全交底期间讨论了整改/返修工作。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0288"
+    },
+    {
+      "term": "contractor",
+      "phonetic": "/ˈkɑnˌtræktər/",
+      "meaning": "承包商",
+      "category": "management",
+      "usage": "the mining contractor",
+      "example": "The contractor was confirmed in writing.",
+      "exampleZh": "该项“承包商”已通过书面形式确认。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx",
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0289"
+    },
+    {
+      "term": "construction contractor",
+      "phonetic": "/kənˈstrəkʃən ˈkɑnˌtræktər/",
+      "meaning": "施工承包商",
+      "category": "management",
+      "usage": "the construction contractor shall...",
+      "example": "The construction contractor was confirmed in writing.",
+      "exampleZh": "该项“施工承包商”已通过书面形式确认。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0290"
+    },
+    {
+      "term": "owner / client",
+      "phonetic": "/ˈoʊnər ər klaɪənt/",
+      "meaning": "业主",
+      "category": "management",
+      "usage": "the owner's representative",
+      "example": "The owner / client was confirmed in writing.",
+      "exampleZh": "该项“业主”已通过书面形式确认。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0291"
+    },
+    {
+      "term": "sender",
+      "phonetic": "/ˈsɛndər/",
+      "meaning": "发函方",
+      "category": "management",
+      "usage": "the sender of the letter",
+      "example": "The sender was confirmed in writing.",
+      "exampleZh": "该项“发函方”已通过书面形式确认。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0292"
+    },
+    {
+      "term": "recipient",
+      "phonetic": "/rɪˈsɪpiənt/",
+      "meaning": "收函方",
+      "category": "management",
+      "usage": "the recipient shall confirm receipt",
+      "example": "The recipient was confirmed in writing.",
+      "exampleZh": "该项“收函方”已通过书面形式确认。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0293"
+    },
+    {
+      "term": "department",
+      "phonetic": "/dɪˈpɑrtmənt/",
+      "meaning": "部门",
+      "category": "management",
+      "usage": "Mining Department",
+      "example": "The department was confirmed in writing.",
+      "exampleZh": "该项“部门”已通过书面形式确认。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0294"
+    },
+    {
+      "term": "project completion",
+      "phonetic": "/ˈprɑʤɛkt kəmˈpliʃən/",
+      "meaning": "项目完成",
+      "category": "management",
+      "usage": "upon project completion",
+      "example": "The project completion was confirmed in writing.",
+      "exampleZh": "该项“项目完成”已通过书面形式确认。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0295"
+    },
+    {
+      "term": "specification",
+      "phonetic": "/ˌspɛsɪfɪˈkeɪʃən/",
+      "meaning": "规格；技术要求",
+      "category": "management",
+      "usage": "technical specification",
+      "example": "The specification was confirmed in writing.",
+      "exampleZh": "该项“规格；技术要求”已通过书面形式确认。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0296"
+    },
+    {
+      "term": "required specification",
+      "phonetic": "/rikˈwaɪərd ˌspɛsɪfɪˈkeɪʃən/",
+      "meaning": "要求的规格",
+      "category": "management",
+      "usage": "the required specification shall prevail",
+      "example": "The required specification was confirmed in writing.",
+      "exampleZh": "该项“要求的规格”已通过书面形式确认。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0297"
+    },
+    {
+      "term": "accepted specification",
+      "phonetic": "/ækˈsɛptɪd ˌspɛsɪfɪˈkeɪʃən/",
+      "meaning": "已接受的规格",
+      "category": "management",
+      "usage": "the accepted specification",
+      "example": "The accepted specification was confirmed in writing.",
+      "exampleZh": "该项“已接受的规格”已通过书面形式确认。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0298"
+    },
+    {
+      "term": "discrepancy",
+      "phonetic": "/dɪˈskrɛpənsi/",
+      "meaning": "不一致；差异",
+      "category": "management",
+      "usage": "in the event of any discrepancy",
+      "example": "The discrepancy was confirmed in writing.",
+      "exampleZh": "该项“不一致；差异”已通过书面形式确认。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0299"
+    },
+    {
+      "term": "prevail",
+      "phonetic": "/prɪˈveɪl/",
+      "meaning": "优先适用",
+      "category": "management",
+      "usage": "the contract shall prevail",
+      "example": "The prevail was confirmed in writing.",
+      "exampleZh": "该项“优先适用”已通过书面形式确认。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0300"
+    },
+    {
+      "term": "issue in duplicate",
+      "phonetic": "/ˈɪʃu ɪn ˈdupləˌkeɪt/",
+      "meaning": "一式两份",
+      "category": "management",
+      "usage": "this letter is issued in duplicate",
+      "example": "The issue in duplicate was confirmed in writing.",
+      "exampleZh": "该项“一式两份”已通过书面形式确认。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0301"
+    },
+    {
+      "term": "retain one copy",
+      "phonetic": "/rɪˈteɪn wən ˈkɑpi/",
+      "meaning": "各留存一份",
+      "category": "management",
+      "usage": "each party shall retain one copy",
+      "example": "The retain one copy was confirmed in writing.",
+      "exampleZh": "该项“各留存一份”已通过书面形式确认。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0302"
+    },
+    {
+      "term": "archive",
+      "phonetic": "/ˈɑrˌkaɪv/",
+      "meaning": "归档",
+      "category": "management",
+      "usage": "record and archive the document",
+      "example": "The technician will archive the equipment before operation.",
+      "exampleZh": "技术员将在设备运行前进行归档。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0303"
+    },
+    {
+      "term": "notify",
+      "phonetic": "/ˈnoʊtəˌfaɪ/",
+      "meaning": "通知",
+      "category": "management",
+      "usage": "notify the sender in writing",
+      "example": "The technician will notify the equipment before operation.",
+      "exampleZh": "技术员将在设备运行前进行通知。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0304"
+    },
+    {
+      "term": "confirm",
+      "phonetic": "/kənˈfərm/",
+      "meaning": "确认",
+      "category": "management",
+      "usage": "confirm completion",
+      "example": "The technician will confirm the equipment before operation.",
+      "exampleZh": "技术员将在设备运行前进行确认。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx",
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0305"
+    },
+    {
+      "term": "approval",
+      "phonetic": "/əˈpruvəl/",
+      "meaning": "批准；审批",
+      "category": "management",
+      "usage": "subject to approval",
+      "example": "The approval was confirmed in writing.",
+      "exampleZh": "该项“批准；审批”已通过书面形式确认。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx",
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0306"
+    },
+    {
+      "term": "work instruction",
+      "phonetic": "/wərk ˌɪnˈstrəkʃən/",
+      "meaning": "工作指令",
+      "category": "management",
+      "usage": "issue a work instruction",
+      "example": "The work instruction was confirmed in writing.",
+      "exampleZh": "该项“工作指令”已通过书面形式确认。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0307"
+    },
+    {
+      "term": "technical clarification",
+      "phonetic": "/ˈtɛknɪkəl ˌklɛrəfəˈkeɪʃən/",
+      "meaning": "技术澄清",
+      "category": "management",
+      "usage": "request technical clarification",
+      "example": "The technical clarification was confirmed in writing.",
+      "exampleZh": "该项“技术澄清”已通过书面形式确认。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0308"
+    },
+    {
+      "term": "coordination meeting",
+      "phonetic": "/koʊˌɔrdəˈneɪʃən ˈmitɪŋ/",
+      "meaning": "协调会",
+      "category": "management",
+      "usage": "technical coordination meeting",
+      "example": "The coordination meeting was confirmed in writing.",
+      "exampleZh": "该项“协调会”已通过书面形式确认。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0309"
+    },
+    {
+      "term": "meeting minutes",
+      "phonetic": "/ˈmitɪŋ ˈmɪnəts/",
+      "meaning": "会议纪要",
+      "category": "management",
+      "usage": "minutes of the coordination meeting",
+      "example": "The meeting minutes was confirmed in writing.",
+      "exampleZh": "该项“会议纪要”已通过书面形式确认。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx",
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0310"
+    },
+    {
+      "term": "action item",
+      "phonetic": "/ˈækʃən ˈaɪtəm/",
+      "meaning": "行动项",
+      "category": "management",
+      "usage": "close all action items",
+      "example": "The action item was confirmed in writing.",
+      "exampleZh": "该项“行动项”已通过书面形式确认。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx",
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0311"
+    },
+    {
+      "term": "acceptance criteria",
+      "phonetic": "/əkˈsɛptəns kraɪˈtɪriə/",
+      "meaning": "验收标准",
+      "category": "management",
+      "usage": "meet the acceptance criteria",
+      "example": "The acceptance criteria was confirmed in writing.",
+      "exampleZh": "该项“验收标准”已通过书面形式确认。",
+      "note": "",
+      "sources": [
+        "矿业与工作英语词汇及表达参考.docx"
+      ],
+      "id": "w0312"
+    },
+    {
+      "term": "mine",
+      "phonetic": "/maɪn/",
+      "meaning": "矿山",
+      "category": "mining",
+      "usage": "",
+      "example": "The team inspected the mine during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了矿山。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0313"
+    },
+    {
+      "term": "mining",
+      "phonetic": "/ˈmaɪnɪŋ/",
+      "meaning": "采矿",
+      "category": "mining",
+      "usage": "",
+      "example": "The team inspected the mining during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了采矿。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0314"
+    },
+    {
+      "term": "underground",
+      "phonetic": "/ˈəndərˌgraʊnd/",
+      "meaning": "井下",
+      "category": "mining",
+      "usage": "",
+      "example": "The team inspected the underground during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了井下。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0315"
+    },
+    {
+      "term": "surface",
+      "phonetic": "/ˈsərfəs/",
+      "meaning": "地表",
+      "category": "mining",
+      "usage": "",
+      "example": "The team inspected the surface during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了地表。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0316"
+    },
+    {
+      "term": "haulage",
+      "phonetic": "/ˈhɔːlɪdʒ/",
+      "meaning": "运输",
+      "category": "mining",
+      "usage": "",
+      "example": "The team inspected the haulage during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了运输。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0317"
+    },
+    {
+      "term": "transport",
+      "phonetic": "/ˈtrænspɔrt/",
+      "meaning": "运输",
+      "category": "mining",
+      "usage": "",
+      "example": "The team inspected the transport during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了运输。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0318"
+    },
+    {
+      "term": "conveyor belt",
+      "phonetic": "/kənˈveɪər bɛlt/",
+      "meaning": "输送带",
+      "category": "mining",
+      "usage": "",
+      "example": "The team inspected the conveyor belt during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了输送带。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0319"
+    },
+    {
+      "term": "crusher",
+      "phonetic": "/ˈkrəʃər/",
+      "meaning": "破碎机",
+      "category": "mining",
+      "usage": "",
+      "example": "The team inspected the crusher during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了破碎机。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0320"
+    },
+    {
+      "term": "jaw crusher",
+      "phonetic": "/ʤɔ ˈkrəʃər/",
+      "meaning": "颚式破碎机",
+      "category": "mining",
+      "usage": "",
+      "example": "The team inspected the jaw crusher during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了颚式破碎机。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0321"
+    },
+    {
+      "term": "chute",
+      "phonetic": "/ʃut/",
+      "meaning": "溜槽",
+      "category": "mining",
+      "usage": "",
+      "example": "The team inspected the chute during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了溜槽。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0322"
+    },
+    {
+      "term": "blasting",
+      "phonetic": "/ˈblæstɪŋ/",
+      "meaning": "爆破",
+      "category": "mining",
+      "usage": "",
+      "example": "The team inspected the blasting during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了爆破。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0323"
+    },
+    {
+      "term": "blast",
+      "phonetic": "/blæst/",
+      "meaning": "一次爆破/爆破",
+      "category": "mining",
+      "usage": "",
+      "example": "The team inspected the blast during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了一次爆破/爆破。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0324"
+    },
+    {
+      "term": "drilling",
+      "phonetic": "/ˈdrɪlɪŋ/",
+      "meaning": "钻孔",
+      "category": "mining",
+      "usage": "",
+      "example": "The team inspected the drilling during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了钻孔。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0325"
+    },
+    {
+      "term": "drill hole",
+      "phonetic": "/drɪl hoʊl/",
+      "meaning": "炮孔/钻孔",
+      "category": "mining",
+      "usage": "",
+      "example": "The team inspected the drill hole during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了炮孔/钻孔。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0326"
+    },
+    {
+      "term": "explosive",
+      "phonetic": "/ɪkˈsploʊsɪv/",
+      "meaning": "炸药",
+      "category": "mining",
+      "usage": "",
+      "example": "The team inspected the explosive during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了炸药。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0327"
+    },
+    {
+      "term": "detonator",
+      "phonetic": "/ˈdɛtəˌneɪtər/",
+      "meaning": "雷管",
+      "category": "mining",
+      "usage": "",
+      "example": "The team inspected the detonator during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了雷管。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0328"
+    },
+    {
+      "term": "tunnel",
+      "phonetic": "/ˈtənəl/",
+      "meaning": "巷道/隧道",
+      "category": "mining",
+      "usage": "",
+      "example": "The team inspected the tunnel during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了巷道/隧道。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0329"
+    },
+    {
+      "term": "rock mass",
+      "phonetic": "/rɑk mæs/",
+      "meaning": "岩体",
+      "category": "mining",
+      "usage": "",
+      "example": "The team inspected the rock mass during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了岩体。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0330"
+    },
+    {
+      "term": "support",
+      "phonetic": "/səˈpɔrt/",
+      "meaning": "支护",
+      "category": "mining",
+      "usage": "",
+      "example": "The team inspected the support during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了支护。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0331"
+    },
+    {
+      "term": "scaling",
+      "phonetic": "/ˈskeɪlɪŋ/",
+      "meaning": "撬毛/清除危岩",
+      "category": "mining",
+      "usage": "",
+      "example": "The team inspected the scaling during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了撬毛/清除危岩。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0332"
+    },
+    {
+      "term": "geotechnical",
+      "phonetic": "/ˌdʒiːoʊˈtɛknɪkəl/",
+      "meaning": "岩土工程的",
+      "category": "safety",
+      "usage": "",
+      "example": "The supervisor discussed geotechnical during the safety briefing.",
+      "exampleZh": "主管在安全交底期间讨论了岩土工程的。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0333"
+    },
+    {
+      "term": "ground condition",
+      "phonetic": "/graʊnd kənˈdɪʃən/",
+      "meaning": "围岩条件",
+      "category": "safety",
+      "usage": "",
+      "example": "The supervisor discussed ground condition during the safety briefing.",
+      "exampleZh": "主管在安全交底期间讨论了围岩条件。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0334"
+    },
+    {
+      "term": "ground control",
+      "phonetic": "/graʊnd kənˈtroʊl/",
+      "meaning": "地压控制",
+      "category": "safety",
+      "usage": "",
+      "example": "The supervisor discussed ground control during the safety briefing.",
+      "exampleZh": "主管在安全交底期间讨论了地压控制。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0335"
+    },
+    {
+      "term": "rockfall",
+      "phonetic": "/ˈrɑːkˌfɔːl/",
+      "meaning": "落石",
+      "category": "safety",
+      "usage": "",
+      "example": "The supervisor discussed rockfall during the safety briefing.",
+      "exampleZh": "主管在安全交底期间讨论了落石。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0336"
+    },
+    {
+      "term": "roof fall",
+      "phonetic": "/rʊf fɔl/",
+      "meaning": "冒顶",
+      "category": "safety",
+      "usage": "",
+      "example": "The supervisor discussed roof fall during the safety briefing.",
+      "exampleZh": "主管在安全交底期间讨论了冒顶。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0337"
+    },
+    {
+      "term": "wall spalling",
+      "phonetic": "/wɔl ˈspɔːlɪŋ/",
+      "meaning": "片帮",
+      "category": "safety",
+      "usage": "",
+      "example": "The supervisor discussed wall spalling during the safety briefing.",
+      "exampleZh": "主管在安全交底期间讨论了片帮。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0338"
+    },
+    {
+      "term": "risk assessment",
+      "phonetic": "/rɪsk əˈsɛsmənt/",
+      "meaning": "风险评估",
+      "category": "safety",
+      "usage": "",
+      "example": "The supervisor discussed risk assessment during the safety briefing.",
+      "exampleZh": "主管在安全交底期间讨论了风险评估。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0339"
+    },
+    {
+      "term": "near miss",
+      "phonetic": "/nɪr mɪs/",
+      "meaning": "未遂事件",
+      "category": "safety",
+      "usage": "",
+      "example": "The supervisor discussed near miss during the safety briefing.",
+      "exampleZh": "主管在安全交底期间讨论了未遂事件。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0340"
+    },
+    {
+      "term": "emergency response",
+      "phonetic": "/ˈimərʤənsi rɪˈspɑns/",
+      "meaning": "应急响应",
+      "category": "safety",
+      "usage": "",
+      "example": "The supervisor discussed emergency response during the safety briefing.",
+      "exampleZh": "主管在安全交底期间讨论了应急响应。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0341"
+    },
+    {
+      "term": "equipment",
+      "phonetic": "/ɪkˈwɪpmənt/",
+      "meaning": "设备",
+      "category": "equipment",
+      "usage": "",
+      "example": "The technician checked the equipment before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了设备。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0342"
+    },
+    {
+      "term": "replacement",
+      "phonetic": "/rɪˈpleɪsmənt/",
+      "meaning": "更换",
+      "category": "equipment",
+      "usage": "",
+      "example": "The technician checked the replacement before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了更换。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0343"
+    },
+    {
+      "term": "wear",
+      "phonetic": "/wɛr/",
+      "meaning": "磨损",
+      "category": "equipment",
+      "usage": "",
+      "example": "The technician checked the wear before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了磨损。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0344"
+    },
+    {
+      "term": "wear plate",
+      "phonetic": "/wɛr pleɪt/",
+      "meaning": "耐磨板",
+      "category": "equipment",
+      "usage": "",
+      "example": "The technician checked the wear plate before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了耐磨板。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0345"
+    },
+    {
+      "term": "side plate",
+      "phonetic": "/saɪd pleɪt/",
+      "meaning": "侧护板",
+      "category": "equipment",
+      "usage": "",
+      "example": "The technician checked the side plate before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了侧护板。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0346"
+    },
+    {
+      "term": "fixed jaw plate",
+      "phonetic": "/fɪkst ʤɔ pleɪt/",
+      "meaning": "固定颚板",
+      "category": "equipment",
+      "usage": "",
+      "example": "The technician checked the fixed jaw plate before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了固定颚板。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0347"
+    },
+    {
+      "term": "pipeline",
+      "phonetic": "/ˈpaɪˌplaɪn/",
+      "meaning": "管道",
+      "category": "equipment",
+      "usage": "",
+      "example": "The technician checked the pipeline before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了管道。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0348"
+    },
+    {
+      "term": "failure",
+      "phonetic": "/ˈfeɪljər/",
+      "meaning": "故障",
+      "category": "equipment",
+      "usage": "",
+      "example": "The technician checked the failure before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了故障。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0349"
+    },
+    {
+      "term": "spare part",
+      "phonetic": "/spɛr pɑrt/",
+      "meaning": "备件",
+      "category": "equipment",
+      "usage": "",
+      "example": "The technician checked the spare part before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了备件。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0350"
+    },
+    {
+      "term": "commissioning",
+      "phonetic": "/kəˈmɪʃənɪŋ/",
+      "meaning": "调试/投运",
+      "category": "equipment",
+      "usage": "",
+      "example": "The technician checked the commissioning before operation.",
+      "exampleZh": "设备投入运行前，技术员检查了调试/投运。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0351"
+    },
+    {
+      "term": "dispatcher",
+      "phonetic": "/ˈdɪˌspæʧər/",
+      "meaning": "调度员",
+      "category": "communication",
+      "usage": "",
+      "example": "We used “dispatcher” in the work update.",
+      "exampleZh": "我们在工作更新中使用了“dispatcher”这一表达。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0352"
+    },
+    {
+      "term": "shift",
+      "phonetic": "/ʃɪft/",
+      "meaning": "班次",
+      "category": "communication",
+      "usage": "",
+      "example": "We used “shift” in the work update.",
+      "exampleZh": "我们在工作更新中使用了“shift”这一表达。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0353"
+    },
+    {
+      "term": "day shift",
+      "phonetic": "/deɪ ʃɪft/",
+      "meaning": "早班/白班",
+      "category": "communication",
+      "usage": "",
+      "example": "We used “day shift” in the work update.",
+      "exampleZh": "我们在工作更新中使用了“day shift”这一表达。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0354"
+    },
+    {
+      "term": "night shift",
+      "phonetic": "/naɪt ʃɪft/",
+      "meaning": "夜班",
+      "category": "communication",
+      "usage": "",
+      "example": "We used “night shift” in the work update.",
+      "exampleZh": "我们在工作更新中使用了“night shift”这一表达。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0355"
+    },
+    {
+      "term": "coordinate",
+      "phonetic": "/koʊˈɔrdəˌneɪt/",
+      "meaning": "协调",
+      "category": "communication",
+      "usage": "",
+      "example": "The technician will coordinate the equipment before operation.",
+      "exampleZh": "技术员将在设备运行前进行协调。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0356"
+    },
+    {
+      "term": "arrange",
+      "phonetic": "/əreɪnʤ/",
+      "meaning": "安排",
+      "category": "communication",
+      "usage": "",
+      "example": "The technician will arrange the equipment before operation.",
+      "exampleZh": "技术员将在设备运行前进行安排。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0357"
+    },
+    {
+      "term": "report",
+      "phonetic": "/rɪˈpɔrt/",
+      "meaning": "报告",
+      "category": "communication",
+      "usage": "",
+      "example": "We used “report” in the work update.",
+      "exampleZh": "我们在工作更新中使用了“report”这一表达。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0358"
+    },
+    {
+      "term": "update",
+      "phonetic": "/ˈəpˌdeɪt/",
+      "meaning": "最新情况",
+      "category": "communication",
+      "usage": "",
+      "example": "We used “update” in the work update.",
+      "exampleZh": "我们在工作更新中使用了“update”这一表达。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0359"
+    },
+    {
+      "term": "priority",
+      "phonetic": "/praɪˈɔrəti/",
+      "meaning": "优先事项",
+      "category": "communication",
+      "usage": "",
+      "example": "We used “priority” in the work update.",
+      "exampleZh": "我们在工作更新中使用了“priority”这一表达。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0360"
+    },
+    {
+      "term": "supervisor",
+      "phonetic": "/ˈsupərˌvaɪzər/",
+      "meaning": "主管",
+      "category": "communication",
+      "usage": "",
+      "example": "We used “supervisor” in the work update.",
+      "exampleZh": "我们在工作更新中使用了“supervisor”这一表达。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0361"
+    },
+    {
+      "term": "manager",
+      "phonetic": "/ˈmænɪʤər/",
+      "meaning": "经理",
+      "category": "communication",
+      "usage": "",
+      "example": "We used “manager” in the work update.",
+      "exampleZh": "我们在工作更新中使用了“manager”这一表达。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0362"
+    },
+    {
+      "term": "make progress",
+      "phonetic": "/meɪk ˈprɑˌgrɛs/",
+      "meaning": "取得进展",
+      "category": "reporting",
+      "usage": "",
+      "example": "The make progress was reviewed during the coordination meeting.",
+      "exampleZh": "协调会审阅了取得进展。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0363"
+    },
+    {
+      "term": "track progress",
+      "phonetic": "/træk ˈprɑˌgrɛs/",
+      "meaning": "跟踪进展",
+      "category": "reporting",
+      "usage": "",
+      "example": "The track progress was reviewed during the coordination meeting.",
+      "exampleZh": "协调会审阅了跟踪进展。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0364"
+    },
+    {
+      "term": "meet the deadline",
+      "phonetic": "/mit ðə ˈdɛˌdlaɪn/",
+      "meaning": "按期完成",
+      "category": "reporting",
+      "usage": "",
+      "example": "The meet the deadline was reviewed during the coordination meeting.",
+      "exampleZh": "协调会审阅了按期完成。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0365"
+    },
+    {
+      "term": "miss the deadline",
+      "phonetic": "/mɪs ðə ˈdɛˌdlaɪn/",
+      "meaning": "未按期完成",
+      "category": "reporting",
+      "usage": "",
+      "example": "The miss the deadline was reviewed during the coordination meeting.",
+      "exampleZh": "协调会审阅了未按期完成。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0366"
+    },
+    {
+      "term": "revise the schedule",
+      "phonetic": "/rɪˈvaɪz ðə ˈskɛʤʊl/",
+      "meaning": "修改计划",
+      "category": "reporting",
+      "usage": "",
+      "example": "The revise the schedule was reviewed during the coordination meeting.",
+      "exampleZh": "协调会审阅了修改计划。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0367"
+    },
+    {
+      "term": "daily plan",
+      "phonetic": "/ˈdeɪli plæn/",
+      "meaning": "日计划",
+      "category": "reporting",
+      "usage": "",
+      "example": "The daily plan was reviewed during the coordination meeting.",
+      "exampleZh": "协调会审阅了日计划。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0368"
+    },
+    {
+      "term": "monthly target",
+      "phonetic": "/ˈmənθli ˈtərgət/",
+      "meaning": "月度目标",
+      "category": "reporting",
+      "usage": "",
+      "example": "The monthly target was reviewed during the coordination meeting.",
+      "exampleZh": "协调会审阅了月度目标。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0369"
+    },
+    {
+      "term": "coordinate with",
+      "phonetic": "/koʊˈɔrdəˌneɪt wɪθ/",
+      "meaning": "与……协调",
+      "category": "communication",
+      "usage": "",
+      "example": "We used “coordinate with” in the work update.",
+      "exampleZh": "我们在工作更新中使用了“coordinate with”这一表达。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0370"
+    },
+    {
+      "term": "work closely with",
+      "phonetic": "/wərk ˈkloʊsli wɪθ/",
+      "meaning": "与……密切合作",
+      "category": "communication",
+      "usage": "",
+      "example": "We used “work closely with” in the work update.",
+      "exampleZh": "我们在工作更新中使用了“work closely with”这一表达。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0371"
+    },
+    {
+      "term": "assign a task",
+      "phonetic": "/əˈsaɪn ə tæsk/",
+      "meaning": "分配任务",
+      "category": "communication",
+      "usage": "",
+      "example": "We used “assign a task” in the work update.",
+      "exampleZh": "我们在工作更新中使用了“assign a task”这一表达。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0372"
+    },
+    {
+      "term": "take responsibility for",
+      "phonetic": "/teɪk riˌspɑnsəˈbɪləti fər/",
+      "meaning": "对……负责",
+      "category": "communication",
+      "usage": "",
+      "example": "We used “take responsibility for” in the work update.",
+      "exampleZh": "我们在工作更新中使用了“take responsibility for”这一表达。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0373"
+    },
+    {
+      "term": "be in charge of",
+      "phonetic": "/bi ɪn ʧɑrʤ əv/",
+      "meaning": "负责",
+      "category": "communication",
+      "usage": "",
+      "example": "We used “be in charge of” in the work update.",
+      "exampleZh": "我们在工作更新中使用了“be in charge of”这一表达。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0374"
+    },
+    {
+      "term": "handover",
+      "phonetic": "/ˈhændoʊvər/",
+      "meaning": "交接",
+      "category": "communication",
+      "usage": "",
+      "example": "We used “handover” in the work update.",
+      "exampleZh": "我们在工作更新中使用了“handover”这一表达。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0375"
+    },
+    {
+      "term": "follow up on",
+      "phonetic": "/ˈfɑloʊ əp ɔn/",
+      "meaning": "跟进",
+      "category": "communication",
+      "usage": "",
+      "example": "We used “follow up on” in the work update.",
+      "exampleZh": "我们在工作更新中使用了“follow up on”这一表达。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0376"
+    },
+    {
+      "term": "reach an agreement",
+      "phonetic": "/riʧ ən əˈgrimənt/",
+      "meaning": "达成一致",
+      "category": "communication",
+      "usage": "",
+      "example": "We used “reach an agreement” in the work update.",
+      "exampleZh": "我们在工作更新中使用了“reach an agreement”这一表达。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0377"
+    },
+    {
+      "term": "make arrangements",
+      "phonetic": "/meɪk ərˈeɪnʤmənts/",
+      "meaning": "作出安排",
+      "category": "communication",
+      "usage": "",
+      "example": "We used “make arrangements” in the work update.",
+      "exampleZh": "我们在工作更新中使用了“make arrangements”这一表达。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0378"
+    },
+    {
+      "term": "allocate resources",
+      "phonetic": "/ˈæləˌkeɪt ˈrisɔrsɪz/",
+      "meaning": "分配资源",
+      "category": "communication",
+      "usage": "",
+      "example": "We used “allocate resources” in the work update.",
+      "exampleZh": "我们在工作更新中使用了“allocate resources”这一表达。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0379"
+    },
+    {
+      "term": "restricted area",
+      "phonetic": "/riˈstrɪktɪd ˈɛriə/",
+      "meaning": "限制区域",
+      "category": "safety",
+      "usage": "",
+      "example": "The supervisor discussed restricted area during the safety briefing.",
+      "exampleZh": "主管在安全交底期间讨论了限制区域。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0380"
+    },
+    {
+      "term": "warning sign",
+      "phonetic": "/ˈwɔrnɪŋ saɪn/",
+      "meaning": "警示牌",
+      "category": "safety",
+      "usage": "",
+      "example": "The supervisor discussed warning sign during the safety briefing.",
+      "exampleZh": "主管在安全交底期间讨论了警示牌。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0381"
+    },
+    {
+      "term": "safety barrier",
+      "phonetic": "/ˈseɪfti ˈbɛriər/",
+      "meaning": "安全隔离设施",
+      "category": "safety",
+      "usage": "",
+      "example": "The supervisor discussed safety barrier during the safety briefing.",
+      "exampleZh": "主管在安全交底期间讨论了安全隔离设施。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0382"
+    },
+    {
+      "term": "immediate cause",
+      "phonetic": "/ˌɪˈmiˌdiət kɔz/",
+      "meaning": "直接原因",
+      "category": "safety",
+      "usage": "",
+      "example": "The supervisor discussed immediate cause during the safety briefing.",
+      "exampleZh": "主管在安全交底期间讨论了直接原因。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0383"
+    },
+    {
+      "term": "preventive measure",
+      "phonetic": "/prɪˈvɛnɪv ˈmɛʒər/",
+      "meaning": "预防措施",
+      "category": "safety",
+      "usage": "",
+      "example": "The supervisor discussed preventive measure during the safety briefing.",
+      "exampleZh": "主管在安全交底期间讨论了预防措施。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0384"
+    },
+    {
+      "term": "routine inspection",
+      "phonetic": "/ruˈtin ˌɪnˈspɛkʃən/",
+      "meaning": "例行检查",
+      "category": "maintenance",
+      "usage": "",
+      "example": "The report uses “routine inspection” to describe the maintenance status.",
+      "exampleZh": "报告使用“例行检查”描述维修状态。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0385"
+    },
+    {
+      "term": "alignment",
+      "phonetic": "/əˈlaɪnmənt/",
+      "meaning": "对中/校准",
+      "category": "maintenance",
+      "usage": "",
+      "example": "The report uses “alignment” to describe the maintenance status.",
+      "exampleZh": "报告使用“对中/校准”描述维修状态。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0386"
+    },
+    {
+      "term": "vibration",
+      "phonetic": "/vaɪˈbreɪʃən/",
+      "meaning": "振动",
+      "category": "maintenance",
+      "usage": "",
+      "example": "The report uses “vibration” to describe the maintenance status.",
+      "exampleZh": "报告使用“振动”描述维修状态。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0387"
+    },
+    {
+      "term": "overheating",
+      "phonetic": "/ˈoʊvərˌhitɪŋ/",
+      "meaning": "过热",
+      "category": "maintenance",
+      "usage": "",
+      "example": "The report uses “overheating” to describe the maintenance status.",
+      "exampleZh": "报告使用“过热”描述维修状态。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0388"
+    },
+    {
+      "term": "leakage",
+      "phonetic": "/ˈlikɪʤ/",
+      "meaning": "泄漏",
+      "category": "maintenance",
+      "usage": "",
+      "example": "The report uses “leakage” to describe the maintenance status.",
+      "exampleZh": "报告使用“泄漏”描述维修状态。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0389"
+    },
+    {
+      "term": "service life",
+      "phonetic": "/ˈsərvɪs laɪf/",
+      "meaning": "使用寿命",
+      "category": "maintenance",
+      "usage": "",
+      "example": "The report uses “service life” to describe the maintenance status.",
+      "exampleZh": "报告使用“使用寿命”描述维修状态。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0390"
+    },
+    {
+      "term": "maintenance record",
+      "phonetic": "/ˈmeɪntənəns ˈrɛkərd/",
+      "meaning": "维修记录",
+      "category": "maintenance",
+      "usage": "",
+      "example": "The report uses “maintenance record” to describe the maintenance status.",
+      "exampleZh": "报告使用“维修记录”描述维修状态。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0391"
+    },
+    {
+      "term": "drift",
+      "phonetic": "/drɪft/",
+      "meaning": "平巷",
+      "category": "mining",
+      "usage": "",
+      "example": "The team inspected the drift during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了平巷。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0392"
+    },
+    {
+      "term": "decline",
+      "phonetic": "/dɪˈklaɪn/",
+      "meaning": "斜坡道",
+      "category": "mining",
+      "usage": "",
+      "example": "The team inspected the decline during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了斜坡道。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0393"
+    },
+    {
+      "term": "ramp",
+      "phonetic": "/ræmp/",
+      "meaning": "斜坡道",
+      "category": "mining",
+      "usage": "",
+      "example": "The team inspected the ramp during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了斜坡道。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0394"
+    },
+    {
+      "term": "mucking",
+      "phonetic": "/ˈməkɪŋ/",
+      "meaning": "出渣/装岩",
+      "category": "mining",
+      "usage": "",
+      "example": "The team inspected the mucking during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了出渣/装岩。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0395"
+    },
+    {
+      "term": "fill material",
+      "phonetic": "/fɪl məˈtɪriəl/",
+      "meaning": "充填材料",
+      "category": "mining",
+      "usage": "",
+      "example": "The team inspected the fill material during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了充填材料。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0396"
+    },
+    {
+      "term": "slurry",
+      "phonetic": "/sˈləri/",
+      "meaning": "浆体",
+      "category": "mining",
+      "usage": "",
+      "example": "The team inspected the slurry during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了浆体。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0397"
+    },
+    {
+      "term": "concentration",
+      "phonetic": "/ˌkɑnsənˈtreɪʃən/",
+      "meaning": "浓度",
+      "category": "mining",
+      "usage": "",
+      "example": "The team inspected the concentration during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了浓度。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0398"
+    },
+    {
+      "term": "tonnage",
+      "phonetic": "/ˈtənɪʤ/",
+      "meaning": "吨位",
+      "category": "mining",
+      "usage": "",
+      "example": "The team inspected the tonnage during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了吨位。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0399"
+    },
+    {
+      "term": "grade",
+      "phonetic": "/greɪd/",
+      "meaning": "品位",
+      "category": "mining",
+      "usage": "",
+      "example": "The team inspected the grade during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了品位。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0400"
+    },
+    {
+      "term": "ventilation",
+      "phonetic": "/ˌvɛntɪˈleɪʃən/",
+      "meaning": "通风",
+      "category": "mining",
+      "usage": "",
+      "example": "The team inspected the ventilation during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了通风。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0401"
+    },
+    {
+      "term": "airflow",
+      "phonetic": "/ˈɛrfloʊ/",
+      "meaning": "风流",
+      "category": "mining",
+      "usage": "",
+      "example": "The team inspected the airflow during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了风流。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0402"
+    },
+    {
+      "term": "wet-bulb temperature",
+      "phonetic": "/wɛt bəlb ˈtɛmpərəʧər/",
+      "meaning": "湿球温度",
+      "category": "mining",
+      "usage": "",
+      "example": "The team inspected the wet-bulb temperature during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了湿球温度。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0403"
+    },
+    {
+      "term": "dust control",
+      "phonetic": "/dəst kənˈtroʊl/",
+      "meaning": "粉尘控制",
+      "category": "mining",
+      "usage": "",
+      "example": "The team inspected the dust control during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了粉尘控制。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0404"
+    },
+    {
+      "term": "dewatering",
+      "phonetic": "/diːˈwɔːtərɪŋ/",
+      "meaning": "排水",
+      "category": "mining",
+      "usage": "",
+      "example": "The team inspected the dewatering during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了排水。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0405"
+    },
+    {
+      "term": "water sump",
+      "phonetic": "/ˈwɔtər səmp/",
+      "meaning": "水仓",
+      "category": "mining",
+      "usage": "",
+      "example": "The team inspected the water sump during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了水仓。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0406"
+    },
+    {
+      "term": "power supply",
+      "phonetic": "/paʊər səˈplaɪ/",
+      "meaning": "电源",
+      "category": "mining",
+      "usage": "",
+      "example": "The team inspected the power supply during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了电源。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0407"
+    },
+    {
+      "term": "compressed air",
+      "phonetic": "/kəmˈprɛst ɛr/",
+      "meaning": "压缩空气",
+      "category": "mining",
+      "usage": "",
+      "example": "The team inspected the compressed air during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了压缩空气。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0408"
+    },
+    {
+      "term": "groundwater",
+      "phonetic": "/ˈgraʊndˌwɔtər/",
+      "meaning": "地下水",
+      "category": "mining",
+      "usage": "",
+      "example": "The team inspected the groundwater during the underground shift.",
+      "exampleZh": "团队在井下班次期间检查了地下水。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0409"
+    },
+    {
+      "term": "ore handling",
+      "phonetic": "/ɔr ˈhændəlɪŋ/",
+      "meaning": "矿石搬运",
+      "category": "processing",
+      "usage": "",
+      "example": "The monthly report includes data on ore handling.",
+      "exampleZh": "月报中包含矿石搬运的数据。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0410"
+    },
+    {
+      "term": "ore bin",
+      "phonetic": "/ɔr bɪn/",
+      "meaning": "矿仓",
+      "category": "processing",
+      "usage": "",
+      "example": "The monthly report includes data on ore bin.",
+      "exampleZh": "月报中包含矿仓的数据。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0411"
+    },
+    {
+      "term": "feeder",
+      "phonetic": "/ˈfidər/",
+      "meaning": "给料机",
+      "category": "processing",
+      "usage": "",
+      "example": "The monthly report includes data on feeder.",
+      "exampleZh": "月报中包含给料机的数据。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0412"
+    },
+    {
+      "term": "screen",
+      "phonetic": "/skrin/",
+      "meaning": "筛分设备",
+      "category": "processing",
+      "usage": "",
+      "example": "The monthly report includes data on screen.",
+      "exampleZh": "月报中包含筛分设备的数据。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0413"
+    },
+    {
+      "term": "liner",
+      "phonetic": "/ˈlaɪnər/",
+      "meaning": "衬板",
+      "category": "processing",
+      "usage": "",
+      "example": "The monthly report includes data on liner.",
+      "exampleZh": "月报中包含衬板的数据。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0414"
+    },
+    {
+      "term": "fixed jaw",
+      "phonetic": "/fɪkst ʤɔ/",
+      "meaning": "定颚",
+      "category": "processing",
+      "usage": "",
+      "example": "The monthly report includes data on fixed jaw.",
+      "exampleZh": "月报中包含定颚的数据。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0415"
+    },
+    {
+      "term": "moving jaw",
+      "phonetic": "/ˈmuvɪŋ ʤɔ/",
+      "meaning": "动颚",
+      "category": "processing",
+      "usage": "",
+      "example": "The monthly report includes data on moving jaw.",
+      "exampleZh": "月报中包含动颚的数据。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0416"
+    },
+    {
+      "term": "discharge opening",
+      "phonetic": "/ˈdɪsˌʧɑrʤ ˈoʊpənɪŋ/",
+      "meaning": "排料口",
+      "category": "processing",
+      "usage": "",
+      "example": "The monthly report includes data on discharge opening.",
+      "exampleZh": "月报中包含排料口的数据。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0417"
+    },
+    {
+      "term": "belt capacity",
+      "phonetic": "/bɛlt kəˈpæsɪti/",
+      "meaning": "皮带运输能力",
+      "category": "processing",
+      "usage": "",
+      "example": "The monthly report includes data on belt capacity.",
+      "exampleZh": "月报中包含皮带运输能力的数据。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0418"
+    },
+    {
+      "term": "agenda",
+      "phonetic": "/əˈʤɛndə/",
+      "meaning": "议程",
+      "category": "communication",
+      "usage": "",
+      "example": "We used “agenda” in the work update.",
+      "exampleZh": "我们在工作更新中使用了“agenda”这一表达。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0419"
+    },
+    {
+      "term": "attachment",
+      "phonetic": "/əˈtæʧmənt/",
+      "meaning": "附件",
+      "category": "communication",
+      "usage": "",
+      "example": "We used “attachment” in the work update.",
+      "exampleZh": "我们在工作更新中使用了“attachment”这一表达。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0420"
+    },
+    {
+      "term": "findings",
+      "phonetic": "/ˈfaɪndɪŋz/",
+      "meaning": "调查结果",
+      "category": "communication",
+      "usage": "",
+      "example": "We used “findings” in the work update.",
+      "exampleZh": "我们在工作更新中使用了“findings”这一表达。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0421"
+    },
+    {
+      "term": "recommendation",
+      "phonetic": "/ˌrɛkəmənˈdeɪʃən/",
+      "meaning": "建议",
+      "category": "communication",
+      "usage": "",
+      "example": "We used “recommendation” in the work update.",
+      "exampleZh": "我们在工作更新中使用了“recommendation”这一表达。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0422"
+    },
+    {
+      "term": "revision",
+      "phonetic": "/riˈvɪʒən/",
+      "meaning": "修订",
+      "category": "communication",
+      "usage": "",
+      "example": "We used “revision” in the work update.",
+      "exampleZh": "我们在工作更新中使用了“revision”这一表达。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0423"
+    },
+    {
+      "term": "final version",
+      "phonetic": "/ˈfaɪnəl ˈvərʒən/",
+      "meaning": "最终版本",
+      "category": "communication",
+      "usage": "",
+      "example": "We used “final version” in the work update.",
+      "exampleZh": "我们在工作更新中使用了“final version”这一表达。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0424"
+    },
+    {
+      "term": "Noted, thank you.",
+      "phonetic": "/ˈnoʊtɪd, θæŋk ju./",
+      "meaning": "已知悉，谢谢",
+      "category": "communication",
+      "usage": "",
+      "example": "Noted, thank you.",
+      "exampleZh": "已知悉，谢谢",
+      "note": "常用完整表达",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0425"
+    },
+    {
+      "term": "Understood. We will arrange it.",
+      "phonetic": "/ˌəndərˈstʊd. wi wɪl əreɪnʤ ɪt./",
+      "meaning": "明白，我们会安排",
+      "category": "communication",
+      "usage": "",
+      "example": "Understood. We will arrange it.",
+      "exampleZh": "明白，我们会安排",
+      "note": "常用完整表达",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0426"
+    },
+    {
+      "term": "I'll check and get back to you.",
+      "phonetic": "/aɪl ʧɛk ənd gɪt bæk tɪ ju./",
+      "meaning": "我核实后回复你",
+      "category": "communication",
+      "usage": "",
+      "example": "I'll check and get back to you.",
+      "exampleZh": "我核实后回复你",
+      "note": "常用完整表达",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0427"
+    },
+    {
+      "term": "I'll let you know as soon as I have an update.",
+      "phonetic": "/aɪl lɛt ju noʊ ɛz sun ɛz aɪ hæv ən ˈəpˌdeɪt./",
+      "meaning": "有新进展我会马上通知你",
+      "category": "communication",
+      "usage": "",
+      "example": "I'll let you know as soon as I have an update.",
+      "exampleZh": "有新进展我会马上通知你",
+      "note": "常用完整表达",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0428"
+    },
+    {
+      "term": "Please keep me updated.",
+      "phonetic": "/pliz kip mi ˈəpˌdeɪtɪd./",
+      "meaning": "请随时告诉我最新情况",
+      "category": "communication",
+      "usage": "",
+      "example": "Please keep me updated.",
+      "exampleZh": "请随时告诉我最新情况",
+      "note": "常用完整表达",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0429"
+    },
+    {
+      "term": "Could you please confirm?",
+      "phonetic": "/kʊd ju pliz kənˈfərm?/",
+      "meaning": "请确认一下，可以吗？",
+      "category": "communication",
+      "usage": "",
+      "example": "Could you please confirm?",
+      "exampleZh": "请确认一下，可以吗？",
+      "note": "常用完整表达",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0430"
+    },
+    {
+      "term": "Please confirm receipt.",
+      "phonetic": "/pliz kənˈfərm rɪˈsit./",
+      "meaning": "请确认收到",
+      "category": "communication",
+      "usage": "",
+      "example": "Please confirm receipt.",
+      "exampleZh": "请确认收到",
+      "note": "常用完整表达",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0431"
+    },
+    {
+      "term": "Please contact them directly.",
+      "phonetic": "/pliz ˈkɑnˌtækt ðɛm dɪˈrɛkli./",
+      "meaning": "请直接联系他们",
+      "category": "communication",
+      "usage": "",
+      "example": "Please contact them directly.",
+      "exampleZh": "请直接联系他们",
+      "note": "常用完整表达",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0432"
+    },
+    {
+      "term": "Who is responsible for this task?",
+      "phonetic": "/hu ɪz riˈspɑnsəbəl fər ðɪs tæsk?/",
+      "meaning": "谁负责这项任务？",
+      "category": "communication",
+      "usage": "",
+      "example": "Who is responsible for this task?",
+      "exampleZh": "谁负责这项任务？",
+      "note": "常用完整表达",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0433"
+    },
+    {
+      "term": "We need to coordinate with the contractor.",
+      "phonetic": "/wi nid tɪ koʊˈɔrdəˌneɪt wɪθ ðə ˈkɑnˌtræktər./",
+      "meaning": "我们需要与承包商协调",
+      "category": "communication",
+      "usage": "",
+      "example": "We need to coordinate with the contractor.",
+      "exampleZh": "我们需要与承包商协调",
+      "note": "常用完整表达",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0434"
+    },
+    {
+      "term": "Please arrange the work as soon as possible.",
+      "phonetic": "/pliz əreɪnʤ ðə wərk ɛz sun ɛz ˈpɑsəbəl./",
+      "meaning": "请尽快安排工作",
+      "category": "communication",
+      "usage": "",
+      "example": "Please arrange the work as soon as possible.",
+      "exampleZh": "请尽快安排工作",
+      "note": "常用完整表达",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0435"
+    },
+    {
+      "term": "The work has been completed.",
+      "phonetic": "/ðə wərk həz bɪn kəmˈplitɪd./",
+      "meaning": "工作已经完成",
+      "category": "communication",
+      "usage": "",
+      "example": "The work has been completed.",
+      "exampleZh": "工作已经完成",
+      "note": "常用完整表达",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0436"
+    },
+    {
+      "term": "The work is still in progress.",
+      "phonetic": "/ðə wərk ɪz stɪl ɪn ˈprɑˌgrɛs./",
+      "meaning": "工作仍在进行中",
+      "category": "communication",
+      "usage": "",
+      "example": "The work is still in progress.",
+      "exampleZh": "工作仍在进行中",
+      "note": "常用完整表达",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0437"
+    },
+    {
+      "term": "There is a delay due to equipment failure.",
+      "phonetic": "/ðɛr ɪz ə dɪˈleɪ du tɪ ɪkˈwɪpmənt ˈfeɪljər./",
+      "meaning": "因设备故障导致延误",
+      "category": "communication",
+      "usage": "",
+      "example": "There is a delay due to equipment failure.",
+      "exampleZh": "因设备故障导致延误",
+      "note": "常用完整表达",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0438"
+    },
+    {
+      "term": "Please follow the safety procedure.",
+      "phonetic": "/pliz ˈfɑloʊ ðə ˈseɪfti prəˈsiʤər./",
+      "meaning": "请遵守安全程序",
+      "category": "communication",
+      "usage": "",
+      "example": "Please follow the safety procedure.",
+      "exampleZh": "请遵守安全程序",
+      "note": "常用完整表达",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0439"
+    },
+    {
+      "term": "Stop the operation immediately.",
+      "phonetic": "/stɑp ðə ˌɑpərˈeɪʃən ˌɪˈmiˌdiətli./",
+      "meaning": "立即停止作业",
+      "category": "communication",
+      "usage": "",
+      "example": "Stop the operation immediately.",
+      "exampleZh": "立即停止作业",
+      "note": "常用完整表达",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0440"
+    },
+    {
+      "term": "The issue has been resolved.",
+      "phonetic": "/ðə ˈɪʃu həz bɪn riˈzɑlvd./",
+      "meaning": "问题已经解决",
+      "category": "communication",
+      "usage": "",
+      "example": "The issue has been resolved.",
+      "exampleZh": "问题已经解决",
+      "note": "常用完整表达",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0441"
+    },
+    {
+      "term": "We are investigating the cause.",
+      "phonetic": "/wi ər ˌɪnˈvɛstəˌgeɪtɪŋ ðə kɔz./",
+      "meaning": "我们正在调查原因",
+      "category": "communication",
+      "usage": "",
+      "example": "We are investigating the cause.",
+      "exampleZh": "我们正在调查原因",
+      "note": "常用完整表达",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0442"
+    },
+    {
+      "term": "Please send me the latest report.",
+      "phonetic": "/pliz sɛnd mi ðə ˈleɪtəst rɪˈpɔrt./",
+      "meaning": "请把最新报告发给我",
+      "category": "communication",
+      "usage": "",
+      "example": "Please send me the latest report.",
+      "exampleZh": "请把最新报告发给我",
+      "note": "常用完整表达",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0443"
+    },
+    {
+      "term": "Let's discuss this at the meeting.",
+      "phonetic": "/lɛts dɪˈskəs ðɪs æt ðə ˈmitɪŋ./",
+      "meaning": "我们在会上讨论这件事",
+      "category": "communication",
+      "usage": "",
+      "example": "Let's discuss this at the meeting.",
+      "exampleZh": "我们在会上讨论这件事",
+      "note": "常用完整表达",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0444"
+    },
+    {
+      "term": "The schedule has been adjusted.",
+      "phonetic": "/ðə ˈskɛʤʊl həz bɪn əˈʤəstɪd./",
+      "meaning": "计划已经调整",
+      "category": "communication",
+      "usage": "",
+      "example": "The schedule has been adjusted.",
+      "exampleZh": "计划已经调整",
+      "note": "常用完整表达",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0445"
+    },
+    {
+      "term": "The target remains unchanged.",
+      "phonetic": "/ðə ˈtərgət rɪˈmeɪnz ənˈʧeɪnʤd./",
+      "meaning": "目标保持不变",
+      "category": "communication",
+      "usage": "",
+      "example": "The target remains unchanged.",
+      "exampleZh": "目标保持不变",
+      "note": "常用完整表达",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0446"
+    },
+    {
+      "term": "Please make the necessary preparations.",
+      "phonetic": "/pliz meɪk ðə ˈnɛsəˌsɛri ˌprɛpərˈeɪʃənz./",
+      "meaning": "请做好必要准备",
+      "category": "communication",
+      "usage": "",
+      "example": "Please make the necessary preparations.",
+      "exampleZh": "请做好必要准备",
+      "note": "常用完整表达",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0447"
+    },
+    {
+      "term": "Thank you for your cooperation.",
+      "phonetic": "/θæŋk ju fər jʊr kˌwɔpərˈeɪʃən./",
+      "meaning": "感谢配合",
+      "category": "communication",
+      "usage": "",
+      "example": "Thank you for your cooperation.",
+      "exampleZh": "感谢配合",
+      "note": "常用完整表达",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0448"
+    },
+    {
+      "term": "Feel free to contact me if you have any questions.",
+      "phonetic": "/fil fri tɪ ˈkɑnˌtækt mi ɪf ju hæv ˈɛni kˈwɛsʧənz./",
+      "meaning": "如有问题，请随时联系我",
+      "category": "communication",
+      "usage": "",
+      "example": "Feel free to contact me if you have any questions.",
+      "exampleZh": "如有问题，请随时联系我",
+      "note": "常用完整表达",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0449"
+    },
+    {
+      "term": "We are on schedule.",
+      "phonetic": "/wi ər ɔn ˈskɛʤʊl./",
+      "meaning": "我们正按计划推进",
+      "category": "reporting",
+      "usage": "",
+      "example": "We are on schedule.",
+      "exampleZh": "我们正按计划推进",
+      "note": "常用完整表达",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0450"
+    },
+    {
+      "term": "The work is slightly behind schedule.",
+      "phonetic": "/ðə wərk ɪz sˈlaɪtli bɪˈhaɪnd ˈskɛʤʊl./",
+      "meaning": "工作进度稍有滞后",
+      "category": "reporting",
+      "usage": "",
+      "example": "The work is slightly behind schedule.",
+      "exampleZh": "工作进度稍有滞后",
+      "note": "常用完整表达",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0451"
+    },
+    {
+      "term": "We expect to finish the work by the end of this shift.",
+      "phonetic": "/wi ɪkˈspɛkt tɪ ˈfɪnɪʃ ðə wərk baɪ ðə ɛnd əv ðɪs ʃɪft./",
+      "meaning": "我们预计本班结束前完成工作",
+      "category": "reporting",
+      "usage": "",
+      "example": "We expect to finish the work by the end of this shift.",
+      "exampleZh": "我们预计本班结束前完成工作",
+      "note": "常用完整表达",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0452"
+    },
+    {
+      "term": "Please update the schedule accordingly.",
+      "phonetic": "/pliz ˈəpˌdeɪt ðə ˈskɛʤʊl əˈkɔrdɪŋli./",
+      "meaning": "请相应更新计划",
+      "category": "reporting",
+      "usage": "",
+      "example": "Please update the schedule accordingly.",
+      "exampleZh": "请相应更新计划",
+      "note": "常用完整表达",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0453"
+    },
+    {
+      "term": "The production target remains unchanged.",
+      "phonetic": "/ðə pərˈdəkʃən ˈtərgət rɪˈmeɪnz ənˈʧeɪnʤd./",
+      "meaning": "生产目标保持不变",
+      "category": "reporting",
+      "usage": "",
+      "example": "The production target remains unchanged.",
+      "exampleZh": "生产目标保持不变",
+      "note": "常用完整表达",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0454"
+    },
+    {
+      "term": "Please coordinate with the production team before starting the work.",
+      "phonetic": "/pliz koʊˈɔrdəˌneɪt wɪθ ðə pərˈdəkʃən tim ˌbiˈfɔr ˈstɑrtɪŋ ðə wərk./",
+      "meaning": "开工前请与生产团队协调",
+      "category": "communication",
+      "usage": "",
+      "example": "Please coordinate with the production team before starting the work.",
+      "exampleZh": "开工前请与生产团队协调",
+      "note": "常用完整表达",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0455"
+    },
+    {
+      "term": "Who will be in charge of the night shift?",
+      "phonetic": "/hu wɪl bi ɪn ʧɑrʤ əv ðə naɪt ʃɪft?/",
+      "meaning": "谁负责夜班？",
+      "category": "communication",
+      "usage": "",
+      "example": "Who will be in charge of the night shift?",
+      "exampleZh": "谁负责夜班？",
+      "note": "常用完整表达",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0456"
+    },
+    {
+      "term": "I will follow up on this issue tomorrow morning.",
+      "phonetic": "/aɪ wɪl ˈfɑloʊ əp ɔn ðɪs ˈɪʃu təˈmɑˌroʊ ˈmɔrnɪŋ./",
+      "meaning": "我明早会跟进这个问题",
+      "category": "communication",
+      "usage": "",
+      "example": "I will follow up on this issue tomorrow morning.",
+      "exampleZh": "我明早会跟进这个问题",
+      "note": "常用完整表达",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0457"
+    },
+    {
+      "term": "Please complete the handover before leaving the site.",
+      "phonetic": "/pliz kəmˈplit ðə ˈhændoʊvər ˌbiˈfɔr ˈlivɪŋ ðə saɪt./",
+      "meaning": "离开现场前请完成交接",
+      "category": "communication",
+      "usage": "",
+      "example": "Please complete the handover before leaving the site.",
+      "exampleZh": "离开现场前请完成交接",
+      "note": "常用完整表达",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0458"
+    },
+    {
+      "term": "We need to allocate more personnel to this task.",
+      "phonetic": "/wi nid tɪ ˈæləˌkeɪt mɔr ˌpərsəˈnɛl tɪ ðɪs tæsk./",
+      "meaning": "我们需要为这项任务增派人员",
+      "category": "communication",
+      "usage": "",
+      "example": "We need to allocate more personnel to this task.",
+      "exampleZh": "我们需要为这项任务增派人员",
+      "note": "常用完整表达",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0459"
+    },
+    {
+      "term": "Please cordon off the area immediately.",
+      "phonetic": "/pliz ˈkɔrdən ɔf ðə ˈɛriə ˌɪˈmiˌdiətli./",
+      "meaning": "请立即封锁该区域",
+      "category": "safety",
+      "usage": "",
+      "example": "Please cordon off the area immediately.",
+      "exampleZh": "请立即封锁该区域",
+      "note": "常用完整表达",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0460"
+    },
+    {
+      "term": "No one may enter the area until it is declared safe.",
+      "phonetic": "/noʊ wən meɪ ˈɛnər ðə ˈɛriə ənˈtɪl ɪt ɪz dɪˈklɛrd seɪf./",
+      "meaning": "在确认安全前，任何人不得进入该区域",
+      "category": "safety",
+      "usage": "",
+      "example": "No one may enter the area until it is declared safe.",
+      "exampleZh": "在确认安全前，任何人不得进入该区域",
+      "note": "常用完整表达",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0461"
+    },
+    {
+      "term": "We need to identify the root cause of the incident.",
+      "phonetic": "/wi nid tɪ aɪˈdɛntəˌfaɪ ðə rut kɔz əv ðə ˈɪnsədənt./",
+      "meaning": "我们需要查明事故的根本原因",
+      "category": "safety",
+      "usage": "",
+      "example": "We need to identify the root cause of the incident.",
+      "exampleZh": "我们需要查明事故的根本原因",
+      "note": "常用完整表达",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0462"
+    },
+    {
+      "term": "Please implement the corrective measures without delay.",
+      "phonetic": "/pliz ˈɪmpləmənt ðə kərˈɛktɪv ˈmɛʒərz wɪˈθaʊt dɪˈleɪ./",
+      "meaning": "请立即落实整改措施",
+      "category": "safety",
+      "usage": "",
+      "example": "Please implement the corrective measures without delay.",
+      "exampleZh": "请立即落实整改措施",
+      "note": "常用完整表达",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0463"
+    },
+    {
+      "term": "A safety briefing must be conducted before the shift.",
+      "phonetic": "/ə ˈseɪfti ˈbrifɪŋ məst bi kənˈdəktəd ˌbiˈfɔr ðə ʃɪft./",
+      "meaning": "班前必须进行安全交底",
+      "category": "safety",
+      "usage": "",
+      "example": "A safety briefing must be conducted before the shift.",
+      "exampleZh": "班前必须进行安全交底",
+      "note": "常用完整表达",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0464"
+    },
+    {
+      "term": "The equipment needs a thorough inspection.",
+      "phonetic": "/ðə ɪkˈwɪpmənt nidz ə θəroʊ ˌɪnˈspɛkʃən./",
+      "meaning": "该设备需要全面检查",
+      "category": "maintenance",
+      "usage": "",
+      "example": "The equipment needs a thorough inspection.",
+      "exampleZh": "该设备需要全面检查",
+      "note": "常用完整表达",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0465"
+    },
+    {
+      "term": "The side plate is badly worn and must be replaced.",
+      "phonetic": "/ðə saɪd pleɪt ɪz ˈbædli wɔrn ənd məst bi ˌriˈpleɪst./",
+      "meaning": "侧护板磨损严重，必须更换",
+      "category": "maintenance",
+      "usage": "",
+      "example": "The side plate is badly worn and must be replaced.",
+      "exampleZh": "侧护板磨损严重，必须更换",
+      "note": "常用完整表达",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0466"
+    },
+    {
+      "term": "The valve cannot be fully closed.",
+      "phonetic": "/ðə vælv ˈkænɑt bi ˈfʊli kloʊzd./",
+      "meaning": "该阀门无法完全关闭",
+      "category": "maintenance",
+      "usage": "",
+      "example": "The valve cannot be fully closed.",
+      "exampleZh": "该阀门无法完全关闭",
+      "note": "常用完整表达",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0467"
+    },
+    {
+      "term": "Please check the pipeline for leakage.",
+      "phonetic": "/pliz ʧɛk ðə ˈpaɪˌplaɪn fər ˈlikɪʤ./",
+      "meaning": "请检查管道是否泄漏",
+      "category": "maintenance",
+      "usage": "",
+      "example": "Please check the pipeline for leakage.",
+      "exampleZh": "请检查管道是否泄漏",
+      "note": "常用完整表达",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0468"
+    },
+    {
+      "term": "The spare parts are expected to arrive next week.",
+      "phonetic": "/ðə spɛr pɑrts ər ɪkˈspɛktɪd tɪ əraɪv nɛkst wik./",
+      "meaning": "备件预计下周到货",
+      "category": "maintenance",
+      "usage": "",
+      "example": "The spare parts are expected to arrive next week.",
+      "exampleZh": "备件预计下周到货",
+      "note": "常用完整表达",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0469"
+    },
+    {
+      "term": "The machine can be restarted after the inspection.",
+      "phonetic": "/ðə məˈʃin kən bi riˈstɑrtɪd ˈæftər ðə ˌɪnˈspɛkʃən./",
+      "meaning": "检查完成后可以重新启动机器",
+      "category": "maintenance",
+      "usage": "",
+      "example": "The machine can be restarted after the inspection.",
+      "exampleZh": "检查完成后可以重新启动机器",
+      "note": "常用完整表达",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0470"
+    },
+    {
+      "term": "Please find the report attached.",
+      "phonetic": "/pliz faɪnd ðə rɪˈpɔrt əˈtæʧt./",
+      "meaning": "请查收附件中的报告",
+      "category": "communication",
+      "usage": "",
+      "example": "Please find the report attached.",
+      "exampleZh": "请查收附件中的报告",
+      "note": "常用完整表达",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0471"
+    },
+    {
+      "term": "Please review the document and provide your comments.",
+      "phonetic": "/pliz ˌrivˈju ðə ˈdɑkjəmɛnt ənd prəˈvaɪd jʊr ˈkɑmɛnts./",
+      "meaning": "请审阅文件并提出意见",
+      "category": "communication",
+      "usage": "",
+      "example": "Please review the document and provide your comments.",
+      "exampleZh": "请审阅文件并提出意见",
+      "note": "常用完整表达",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0472"
+    },
+    {
+      "term": "The revised version will be shared tomorrow.",
+      "phonetic": "/ðə rɪˈvaɪzd ˈvərʒən wɪl bi ʃɛrd təˈmɑˌroʊ./",
+      "meaning": "修订版将于明天发送",
+      "category": "communication",
+      "usage": "",
+      "example": "The revised version will be shared tomorrow.",
+      "exampleZh": "修订版将于明天发送",
+      "note": "常用完整表达",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0473"
+    },
+    {
+      "term": "Let's confirm the action items before the meeting ends.",
+      "phonetic": "/lɛts kənˈfərm ðə ˈækʃən ˈaɪtəmz ˌbiˈfɔr ðə ˈmitɪŋ ɛndz./",
+      "meaning": "会议结束前确认一下待办事项",
+      "category": "communication",
+      "usage": "",
+      "example": "Let's confirm the action items before the meeting ends.",
+      "exampleZh": "会议结束前确认一下待办事项",
+      "note": "常用完整表达",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0474"
+    },
+    {
+      "term": "The report is pending approval.",
+      "phonetic": "/ðə rɪˈpɔrt ɪz ˈpɛndɪŋ əˈpruvəl./",
+      "meaning": "报告正在等待批准",
+      "category": "communication",
+      "usage": "",
+      "example": "The report is pending approval.",
+      "exampleZh": "报告正在等待批准",
+      "note": "常用完整表达",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0475"
+    },
+    {
+      "term": "Got it.",
+      "phonetic": "/gɑt ɪt./",
+      "meaning": "明白了。（较口语）",
+      "category": "communication",
+      "usage": "",
+      "example": "Got it.",
+      "exampleZh": "明白了。（较口语）",
+      "note": "常用完整表达",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0476"
+    },
+    {
+      "term": "Will do.",
+      "phonetic": "/wɪl du./",
+      "meaning": "会照办",
+      "category": "communication",
+      "usage": "",
+      "example": "Will do.",
+      "exampleZh": "会照办",
+      "note": "常用完整表达",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0477"
+    },
+    {
+      "term": "Sounds good.",
+      "phonetic": "/saʊnz gʊd./",
+      "meaning": "听起来可以",
+      "category": "communication",
+      "usage": "",
+      "example": "Sounds good.",
+      "exampleZh": "听起来可以",
+      "note": "常用完整表达",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0478"
+    },
+    {
+      "term": "No problem.",
+      "phonetic": "/noʊ ˈprɑbləm./",
+      "meaning": "没问题",
+      "category": "communication",
+      "usage": "",
+      "example": "No problem.",
+      "exampleZh": "没问题",
+      "note": "常用完整表达",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0479"
+    },
+    {
+      "term": "Thanks for the update.",
+      "phonetic": "/θæŋks fər ðə ˈəpˌdeɪt./",
+      "meaning": "谢谢告知最新情况",
+      "category": "communication",
+      "usage": "",
+      "example": "Thanks for the update.",
+      "exampleZh": "谢谢告知最新情况",
+      "note": "常用完整表达",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0480"
+    },
+    {
+      "term": "I'll take care of it.",
+      "phonetic": "/aɪl teɪk kɛr əv ɪt./",
+      "meaning": "我来处理",
+      "category": "communication",
+      "usage": "",
+      "example": "I'll take care of it.",
+      "exampleZh": "我来处理",
+      "note": "常用完整表达",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0481"
+    },
+    {
+      "term": "I'll check it right away.",
+      "phonetic": "/aɪl ʧɛk ɪt raɪt əˈweɪ./",
+      "meaning": "我马上检查",
+      "category": "communication",
+      "usage": "",
+      "example": "I'll check it right away.",
+      "exampleZh": "我马上检查",
+      "note": "常用完整表达",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0482"
+    },
+    {
+      "term": "I'll keep you posted.",
+      "phonetic": "/aɪl kip ju ˈpoʊstɪd./",
+      "meaning": "我会及时告诉你进展",
+      "category": "communication",
+      "usage": "",
+      "example": "I'll keep you posted.",
+      "exampleZh": "我会及时告诉你进展",
+      "note": "常用完整表达",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0483"
+    },
+    {
+      "term": "Thanks for letting me know.",
+      "phonetic": "/θæŋks fər ˈlɛtɪŋ mi noʊ./",
+      "meaning": "谢谢你告诉我",
+      "category": "communication",
+      "usage": "",
+      "example": "Thanks for letting me know.",
+      "exampleZh": "谢谢你告诉我",
+      "note": "常用完整表达",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0484"
+    },
+    {
+      "term": "Let's proceed as planned.",
+      "phonetic": "/lɛts pərˈsid ɛz plænd./",
+      "meaning": "按计划进行吧",
+      "category": "communication",
+      "usage": "",
+      "example": "Let's proceed as planned.",
+      "exampleZh": "按计划进行吧",
+      "note": "常用完整表达",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0485"
+    },
+    {
+      "term": "received",
+      "phonetic": "/rɪˈsivd/",
+      "meaning": "收到；已知悉",
+      "category": "communication",
+      "usage": "",
+      "example": "Received, thank you.",
+      "exampleZh": "收到，谢谢。",
+      "note": "recived 是错误拼写。",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0486"
+    },
+    {
+      "term": "mining dispatcher",
+      "phonetic": "/ˈmaɪnɪŋ ˈdɪˌspæʧər/",
+      "meaning": "矿山调度员",
+      "category": "communication",
+      "usage": "",
+      "example": "Please inform the mining dispatchers of the change.",
+      "exampleZh": "请通知矿山调度员这一变更。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0487"
+    },
+    {
+      "term": "geotechnical engineering",
+      "phonetic": "/ˌdʒiːoʊˈtɛknɪkəl ˈɛnʤəˈnɪrɪŋ/",
+      "meaning": "岩土工程",
+      "category": "safety",
+      "usage": "",
+      "example": "The geotechnical assessment has been completed.",
+      "exampleZh": "岩土工程评估已经完成。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0488"
+    },
+    {
+      "term": "geotechnical engineer",
+      "phonetic": "/ˌdʒiːoʊˈtɛknɪkəl ˈɛnʤəˈnɪr/",
+      "meaning": "岩土工程师",
+      "category": "safety",
+      "usage": "",
+      "example": "The geotechnical engineer inspected the working face.",
+      "exampleZh": "岩土工程师检查了工作面。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0489"
+    },
+    {
+      "term": "geotechnical assessment",
+      "phonetic": "/ˌdʒiːoʊˈtɛknɪkəl əˈsɛsmənt/",
+      "meaning": "岩土工程评估",
+      "category": "safety",
+      "usage": "",
+      "example": "A geotechnical assessment is required before excavation.",
+      "exampleZh": "开挖前需要进行岩土工程评估。",
+      "note": "",
+      "sources": [
+        "微信英语学习整理_近一年.docx"
+      ],
+      "id": "w0490"
+    }
+  ]
+};
